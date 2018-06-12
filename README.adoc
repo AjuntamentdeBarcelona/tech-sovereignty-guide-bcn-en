@@ -1,0 +1,59 @@
+// tag::metadata[]
+// MANDATORY. Title of the document. In web format, It appears as a heading of
+// level 1. In PDF format, it appears in a title page.
+:_title: Barcelona City Council technological sovereignty guide
+
+// OPTIONAL. If not blank, it must begin with ": " (colon followed by a blank
+// space). In web format, it appears as part of the same heading of level 1 than
+// the title. In PDF format, it appears in the title page, just below the title.
+:_subtitle:
+
+// It's usually not necessary to change this field.
+:doctitle: {_title}{_subtitle}
+
+// MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
+// and Z is optional.
+:revnumber: 0.1
+
+// OPTIONAL. Publication date of the revision. When the default value
+// ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
+// inserted in this field every time the formatted document (web or PDF) is
+// generated. It's also possible to manually write here a fixed date.
+:revdate: {docdate}
+
+// MANDATORY.
+:authors: Barcelona City Council
+
+// MANDATORY. Summary of the contents of the document. This would correspond to
+// the "abstract" in an academic publication.
+:_summary:
+
+// MANDATORY. Comma-separated list of terms to help classifying and searching
+// the document. In web format, this terms are integrated as SEO enabling
+// metadata. In PDF format, they are shown near the other metadata.
+:keywords:
+
+// MANDATORY. Document's history.
+:_dochistory:
+
+// MANDATORY. Legal terms under which this document can be distributed and/or
+// modified. It's usually not necessary to modify the default contents of this
+// field.
+:_copyleft: Barcelona City Council and the authors of the text, under a Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)
+// end::metadata[]
+
+
+// tag::metadata-table[]
+== Metadata
+
+[cols="20,80"]
+|===
+| Title                                 | {_title}
+| Version                               | {revnumber}
+| Date                                  | {revdate}
+| Authors                               | {authors}
+| Summary                               | {_summary}
+| Keywords                              | {keywords}
+| Copyleft                              | {_copyleft}
+|===
+// end::metadata-table[]
