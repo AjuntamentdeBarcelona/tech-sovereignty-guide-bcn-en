@@ -1,7 +1,7 @@
 // tag::metadata[]
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:_title: Barcelona City Council technological sovereignty guide
+:_title: Barcelona City Council technological sovereignty guide (Asciidoc version in progress...)
 
 // OPTIONAL. If not blank, it must begin with ": " (colon followed by a blank
 // space). In web format, it appears as part of the same heading of level 1 than
@@ -26,7 +26,7 @@
 
 // MANDATORY. Summary of the contents of the document. This would correspond to
 // the "abstract" in an academic publication.
-:_summary:
+:_summary: The implementation of technological sovereignty in the delivery of BCN City Council's digital services.
 
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
