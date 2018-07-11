@@ -1,0 +1,118 @@
+= Free software
+
+== Concept and definitions
+
+The general principles underpinning free software are the concepts of *freedom and access*, basic principles of technological sovereignty: freedom to use software and access to the source code in order to benefit from this freedom.
+
+Free software is no different from other software in terms of its technical properties, although it is usually developed in a different manner.
+Its distinguishing features are mainly its legal characteristics and the conditions of use and (re)distribution defined in the corresponding licence.
+The use of free software is not subject to the same rules as traditional “proprietary” software for which a licence is required; these licences tend to establish strict limitations on the use of the software in question (per device, per installation or user name, per CPU, depending on the amount of data processed, etc.).
+As a result, separate licences must be “bought” for their different uses.
+
+Free software differs from proprietary software in terms of the rights and “*freedoms*” awarded in the corresponding licences (“free licences”, many of which have also been called “open source licences”).
+In summary, these rights provide for the *free use, copying or modification of software and its redistribution to third parties,* under specific conditions.
+
+A free licence is a licence that guarantees the “freedoms of the software”, according to Free Software Foundation (FSF).
+An Open Source Software license is one that fulfils the guidelines established by the Open Source Initiative (OSI).
+From a technical and practical perspective, both the free software freedoms and the OSI Guidelines substantially overlap (while the philosophical views of the supporting institutions may be quite different).
+
+The Free Software Foundation defines free software as follows (1986)footnote:[_Definition of free software, https://www.gnu.org/philosophy/free-sw.en.html[https://www.gnu.org/philosophy/free-sw.es.html.]_]: _A program is free software if the program's users have the four essential freedoms:_
+
+
+. _The freedom to run the program as you wish, for any purpose (freedom 0)._
+. _The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1)._ Access to the source code is a precondition for this.
+. _The freedom to redistribute copies (freedom 2)._
+. _The freedom to distribute copies of your modified versions to others (freedom 3)._ Access to the source code is a precondition for this
+
+Alternatively, “open source” (or “open source software”) corresponds to software programs that are distributed under a licence that is free and fulfils the OSI guidelines set out under the Open Source Definition, which brings together and develops these four freedomsfootnote:[_Open source definition at https://opensource.org/osd_].
+
+Under this definition, licences must fulfil ten conditions to be considered as open source:
+
+. Free distribution: it may be sold or given away.
+. Source code: must be included or must be freely available.
+. Derivative works: must allow the redistribution of modifications.
+. Integrity of the author's source code: licences may require that modifications may only be redistributed in patches.
+. No discrimination against persons or groups.
+. No discrimination against fields of endeavour: for example, commercial uses must not be excluded.
+. Licence distribution: the rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional licence by those parties.
+. Licence must not be specific to a product: the program may not be licensed only as part of a larger distribution.
+. The licence must not place restrictions on other software: the licence must not insist that all other programs distributed on the same medium must be open-source software.
+. The licence must be technology-neutral.
+
+These guidelines ensure, amongst other things, that a licence certified as being “open sources” grants to the user the aforementioned rights to exploit the software and, therefore, guarantees that it is on a non *discriminatory basis* and that licensees can *access the source code.*
+
+Legally speaking, there is no difference between the definition of free software and the open source guidelines.
+This means, in any case and in terms of the licence, that the user can reproduce, transform (improve, adapt, integrate into other programs) and distribute or redistribute the programme and any resulting code for any purpose.
+From a technical and practical perspective, both the free software freedoms and the OSI Guidelines substantially overlap (while the philosophical views of the supporting institutions may be quite different).
+
+== CopyLeft
+
+Free software licences with _copyleft_ go beyond merely guaranteeing the basic four freedoms of the software for licensees or direct users.
+A licence that awards the aforementioned rights without imposing conditions allows the licensee to include the free software in another software programme and redistribute the result under a restrictive or “proprietary” licence, in such a way that the users of the new programme will not attain any of the freedoms originally awarded.
+In other words, there is no guarantee that the free software remains free.
+Therefore, a mechanism was required to safeguard this freedom: *copyleft*.
+
+The objective of this mechanism is to ensure that any software user is able to benefit from these freedoms at all times.
+Free software licences with copyleft oblige licensees to:
+
+a. Use the same free licence for the redistribution of software (both the original unmodified software and any other modification made).
+b. Provide or offer all users access to the source code.
+
+This dual condition eliminates any opportunity to distribute free software under a proprietary licence.
+Noticeably, copyleft brings the two fundamental concepts of free software (and technological sovereignty) together: freedom and access.
+
+== Free software licences
+
+Within the general framework of these freedoms, there are a range of different ways to legally express them.
+This, together with the variety of additional conditions that may be included, is the reason for there being almost ninety current and past licences classified as “free” by the FSF, many of which are also recognised as “open source” by the OSI, each with its own specific features.
+The most important difference can be traced to the redistribution conditions and the extent of _copyleft,_ which is usually used as a criteria for classifying or differentiating licences.
+
+a. If the program has been licensed under a “*permissive*” license (such as BSD r X/MIT licenses), generally speaking, no conditions apply in terms of redistribution, which means it can be mixed with any other software.
+b. If the program has been licensed under the GPL licence or another licence “*with _copyleft_*”, then the redistribution of the programme or any other derivative or composite work including it, must be subject to the same licence, and offer the user access to the source code.
+This ensures that the program remains “free” and cannot be “privatised”.
+c. Some “intermediate” licences, or licences with “_*soft copyleft*_” (such as the LGPL, MPL or EUPL) make it possible to add or integrate new code into the original code and distribute the combination under a new licence (proprietary or free).
+However, the original part must be offered under the original licence, normally along with the source code.
+This is a form of partial _copyleft_.
+
+The most common and well-known licences are as follows:
+
+* Permissive: MIT, BSD, Apache Software License 2.0
+* _Copyleft:_ GPLv2 and GPLv3, AferroGPL3
+* _Weak (or “narrower”)_ copyl__eft__: LGPL (version 2 or 3), MPL (version 2), CPL (Common Public License)
+
+One way of understanding the difference between permissive licenses and licences with _copyleft_ is that they guarantee different types of freedoms:
+
+a. A permissive free software licence, such as the BSD or MIT licence, offers developers more freedom, as they can integrate and redistribute the software in deployments under both free and/or proprietary software.
+b. A free software licence with _copyleft_ offers more freedom to the end users, as they will always receive applications with their source code and under a free software licence.
+
+== Advantages
+
+The legal and practical impact of free software licences is an important consideration.
+The direct consequence of using software under a free software licence (and exercising the rights awarded thereby) is the ability to:
+
+a. Freely download and copy the program (often online, free of charge).
+b. Install software to test it and assess its performance.
+c. Modify it to adapt it to our needs (or hire a developer/ consultant to do this on our behalf).
+d. Install it on as many devices as necessary in our business or institution and update it as new versions are released.
+e. Redistribute it (online or in CD/DVD format, etc.) so that others can benefit from any modification or improvement made.
+All of the above without having to negotiate a licence with a supplier, sign exclusive support contracts or calculate the number of devices or users that will use the software in question.
+
+Some of the main indirect advantages of the legal model for free software can be seen below:
+
+a. *Reuse:* the right to run, modify and redistribute the free software implies that there is a much higher degree of use, both in terms of the components and whole applications by end users, which leads to a much higher degree of efficiency.
+b. *Independence:* free access to the source code, along with the right to run and modify it, grants the user a high degree of independence from suppliers, meaning it is easier to demand more quality for the service provided.
+c. *Collaboration:* the right to access, execute and modify promotes collaborative software development (among developers who have potentially never met) and user-driven correction of errors.
+d. *Service orientation:* since they cannot “sell licences”, free software consultancy and development firms tend to base their business on the sale of services (selection, integration and deployment, support and maintenance, training, warranties, etc.).
+e. *Communities:* the rights granted by free software licences make for intense use and mass dissemination of free software online (in particular via repositories like SourceForge and GitHub) and promote the creation of communities dedicated to free software projects.
+
+For the purposes of freely distributing free software, no fee is charged: there is little point in setting a price when tomorrow, another user can legitimately publish the software (binary and source code) online for download by other internet users at no cost.
+This prevents vendors trying to offer free software for a fee.
+Redhat Inc., for example, can charge for its distribution of GNU/Linux (for example, Red Hat Enterprise) essentially because it offers additional products and services: performance warranties, support services, administrative or installation applications.
+
+TIP: We should share what we’re doing whenever we can.
+With colleagues, with users, with the world.
+Share code, share designs, share ideas, share intentions, share failures.
+The more eyes there are on a service the better it gets - errors are spotted, better alternatives are identified, the bar is raised. +
+Much of what we’re doing is only possible because of open source code and the generosity of the web design community.
+We should return the favour. +
+https://www.gov.uk/design-principles#tenth

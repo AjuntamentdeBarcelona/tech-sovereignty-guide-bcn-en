@@ -1,0 +1,8 @@
+* xref:introduction.adoc[Introduction and context]
+* xref:general-principles.adoc[General principles of technological sovereignty]
+* xref:free-software.adoc[Free software]
+* xref:public-administration.adoc[Free software and the Public Administration]
+* xref:interoperability.adoc[Interoperability, open standards and formats]
+* xref:policy.adoc[Policy on technological sovereignty and guidelines for its implementation]
+* xref:glossary.adoc[Glossary]
+* xref:references.adoc[Further information; references]

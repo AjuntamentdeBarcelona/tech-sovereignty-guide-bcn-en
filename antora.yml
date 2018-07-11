@@ -1,0 +1,6 @@
+name: tech-sovereignty
+title: Technological sovereignty guide
+version: 0.1
+start_page: ROOT:introduction.adoc
+nav:
+- modules/ROOT/nav.adoc
