@@ -163,7 +163,7 @@ d. Bear in mind that the regulations in force (Law 40/2015, Art. 157-158) requir
 |
 *When appropriate, the possibility of collaborating with other public administrations and entities in the development of technological projects of interest shall be considered, with a view to sharing costs and promoting interoperability.*
 |
-a. Pooling projects close cooperation between municipal governments and other administrations or entities in order to jointly develop tools for everyone's benefit.footnote:[_See, for example, the CommunesPlone project: https://joinup.ec.europa.eu/community/osor/case/networks-effects-plone-belgium-and-beyond[https://joinup.ec.europa.eu/community/osor/case/networks-effects-plone-belgium-and-beyond]. _] Participants share needs and specifications, costs, economic resources and development teams, in addition to the code that is developed.
+a. Pooling projects close cooperation between municipal governments and other administrations or entities in order to jointly develop tools for everyone's benefit.footnote:[_See, for example, the CommunesPlone project: https://joinup.ec.europa.eu/community/osor/case/networks-effects-plone-belgium-and-beyond_] Participants share needs and specifications, costs, economic resources and development teams, in addition to the code that is developed.
 
 b. To encourage the pooling of projects, the Localret network of towns and cities may be used, in addition to other national or international networks.
 
@@ -195,7 +195,7 @@ c. In the event that solutions based on proprietary software are proposed, it mu
 
 d. Work will be carried out to establish a committee of free technology experts who can advise on the design and assessment of the preliminary projects and also offer assistance, if proprietary technologies are proposed, for determining the admissibility of the alleged exceptional circumstances.
 
-e. Preliminary projects must assess the maturity, maintenance conditions and expected sustainability of the proposed software componentsfootnote:[_For example, following the Open Preservation Foundation model, available online at http://openpreservation.org/technology/principles/software-maturity. In future, the IMI may make teams and resources available to projects in order to provide assistance with this undertaking.
+e. Preliminary projects must assess the maturity, maintenance conditions and expected sustainability of the proposed software componentsfootnote:[_For example, following the Open Preservation Foundation model, available online at http://openpreservation.org/technology/principles/software-maturity_]. In future, the IMI may make teams and resources available to projects in order to provide assistance with this undertaking.
 
 f. An important function of the preparatory phase, when free projects are preselected for expansion or adaptation, is researching the legal and technical requirements to participate in these projects. To this end, contacts can be made with the maintainers and the legal owners of these projects, in addition to noteworthy developers thereof. The result of this phase shall include a description of the obligations resulting from these requirements, to be included in the procurement contract specifications.
 
@@ -389,7 +389,7 @@ a. Each project will define which individuals and organisations will retain owne
 
 b. As a general rule, the accumulation of intellectual property at the IMI shall be avoided. When intellectual property rights in the software developments are not transferred to the IMI, providers may retain them and have the capacity to recycle developments for other projects; however, in any case, the City Council must have the right to use, combine and modify the software generated and allow it to be freed or otherwise reused.
 
-c. In some cases, the IMI will want to retain effective control of technical developments financed using public funds. External contributions outside the scope of a supply contract will require a contributor licence agreement (CLAfootnote:[_See, for example, http://harmonyagreements.org/_]) to be signed. Notwithstanding the foregoing, there are other options for correctly managing contributions (establishing a DCO[multiblock footnote omitted] or contributions being made under the project licence or a more permissive licence).
+c. In some cases, the IMI will want to retain effective control of technical developments financed using public funds. External contributions outside the scope of a supply contract will require a contributor licence agreement (CLAfootnote:[_See, for example, http://harmonyagreements.org/_]) to be signed. Notwithstanding the foregoing, there are other options for correctly managing contributions (establishing a DCOfootnote:[_DCO: Developers Certificate of Origin. For example: https://developercertificate.org/_] or contributions being made under the project licence or a more permissive licence).
 
 d. Regardless of the intellectual property policy, which may differ from one project to the next, the authorship of all contributors shall be reflected in an Authors file in the public repository.
 |===
