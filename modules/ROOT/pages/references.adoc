@@ -1,0 +1,79 @@
+= Further information; references
+
+*FREE SOFTWARE FOUNDATION:*
+
+_Free Software Definition_, available online at _https://www.gnu.org/philosophy/free-sw.en.html_ and _What is copyleft_, available online at _https://www.gnu.org/licenses/copyleft.es.html_
+
+*OPEN SOURCE INITIATIVE:*
+
+_Open Source Definition_, available online at _https://opensource.org/osd_, and _Frequently Asked Questions_, available online at _https://opensource.org/faq_
+
+*EUROPEAN UNION:*
+
+_Communication COM (2013) 455 final: Against lock-in: building open ICT systems by making better use of standards in public procurement_. Available online at _http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2327_
+
+_SWD(2013) 224 final. Guide for the procurement of standards-based ICT — Elements of Good Practice_. Available online at _http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=2326_
+
+_The Sharing and Reuse Framework for IT Solutions_ (2016). Available online at _https://joinup.ec.europa.eu/sites/default/files/sharing_and_reuse_of_it_solutions_framework_final.pdf_
+
+_Governance Models for Sharing and Re-use for Common IT Solutions_ (2013). Available online at _https://joinup.ec.europa.eu/sites/default/files/b6/cc/cd/Governance%20Models%20for%20Sharing%20and%20Re-use.pdf_
+
+OSOR: _Guideline on public procurement of Open Source Software_ (2010). Available online at _https://joinup.ec.europa.eu/sites/default/files/24/ac/83/OSS-procurement-guideline%20-final.pdf_
+
+OSOR: _Guidelines for Public Administrations on Partnering with Free Software Developers_. Available online at http://www.osor.eu/idabc-studiesec.europa.eu/idabc/servlets/Docbe59.pdf?id=28128[_http://www.osor.eu/idabc-studiesec.europa.eu/idabc/servlets/Docbe59.pdf?id=28128_]
+
+_Open Source Software Strategy_. Available online at _https://ec.europa.eu/info/european-commissions-open-source-strategy_en#softwarestrategy_
+
+Political support and pioneers pivotal for open source. Available online at _https://joinup.ec.europa.eu/community/osor/news/political-support-and-pioneers-pivotal-open-source,_ quoting Loon and Toshkov, _Adopting open source software in public administration: The importance of boundary spanners and political commitment,_ available online at _https://doi.org/10.1016/j.giq.2015.01.004_
+
+_Public administration should prefer open source_. Available online at _https://joinup.ec.europa.eu/community/osor/news/%E2%80%98public-administration-should-prefer-open-source%E2%80%99_, quoting Proofs Dietmar Harhoff, director of the Max Planck Institute for Innovation and Competition, available online at _https://www.youtube.com/watch?list=PLpHqfsEDn8h6GP5K5NVM1D1_cJRDA6S-z&v=b5akW_VS57Q_
+
+*CENATIC:*
+
+_Software de fuentes abiertas para el desarrollo de la Administración Pública Española_. Guide on the use of free software in Spain's public administrations. Available online at _http://observatorio/cenatic.es/index.php?option=com_content&view=article&id=39:software-de-fuentes-abiertas-para-el-desarrollo-de-la-administracion-publica-espanola-una-vision-global-2008&ca-tid=5:administraciones-publicas&Itemid=21_
+
+_Diez razones para el uso de software de fuentes abiertas en la educación_. Available online at _http://www.cenatic.es/index.php?option=com_content&view=article&id=25669_
+
+_Diez razones para que la administración libere software._ Available online at _http://www.cenatic.es/publicaciones/divulgativas?download=21%3A10-razones-para-que-la-administracion-libere-software-extendido_
+
+*FOSSPROJECT/PS-OSS:*
+
+Studies and guidelines for collaboration between public administrations and free software developers. _Free/Libre and Open Source Software: Survey and Study, FINAL REPORT._ Available online at _https://joinup.ec.europa.eu/sites/default/files/doc/PS-OSS%20Final%20report.pdf_
+
+General studies on free software for the public administration in the EU. Available online at http://www.flossproject.org/
+
+*SPAIN MAP:*
+
+_Propuesta de recomendaciones a la Administración General del Estado sobre utilización del software libre y de fuentes abiertas_, general study on the use of free software by the Spanish Ministry of Public Administrations. Available online at http://www.csi.map.es/csi/pg5s44.htm
+
+*GOVERNMENT OF THE UNITED KINGDOM*
+
+_Technology Code of Practice_. Available online at _https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice_
+
+_Service Manual_. Available online at _https://www.gov.uk/service-manual_
+
+*NEW ZEALAND*
+
+_NZGoal Software Extension Policy: Open Source Policy_ (July 2016). Available online at _https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/NZGOAL-SE_
+
+*OTHERS*
+
+Aliprandi, Simone (2011) _Interoperability and open standards: the key to true openness and innovation_, International Free and Open Source Software Law Review, 3(1), p. 5-24, DOI: 10.5033/ifosslr.v3i1.53
+
+Gardeler, R. (2013) Software _Sustainability Maturity Model_. Available online at _http://oss-watch.ac.uk/resources/ssmm_
+
+Meshed Insites Limited (2016) _Gobernanza de la fase inicial de la estrategia Open Source_ (2016). Working document of Barcelona City Council
+
+Paapst, Mathieu (2010) _Affirmative action in procurement for open standards and FLOSS, IFOSS L. Rev., 2(2)_, p. 181-190, DOI: _10.5033/ifosslr.v2i2.41_
+
+Piana, Carlo (2010) _Italian Constitutional Court gives way to Free Software friendly laws, IFOSS L. Rev., 2(1),_ p. 61-66, DOI. Available online at _10.5033/ifosslr.v2i1.38_
+
+Omnis Systems (2016) Documents de suport a la compra pública en els aspectes de tecnologia oberta. (Working document of Barcelona City Council)
+
+Offerman, A (2012) _Public Open Source Software Procurement Models: The Next Generation, European Journal of ePractice_, núm. 18 (October 2012)s. Available online at _https://joinup.ec.europa.eu/elibrary/case/public-open-source-software-procurement-models-next-generation_ and _http://www.offerman.com/articles/Joinup/ePractice-Journal_Volume_18_Final_12_10_12_PART8.pdf_
+
+OSS Watch (2014) _Decision factors for open source software procurement_. Available online at _http://oss-watch.ac.uk/resources/procurement-infopack_
+
+Shaikh, Maha and Cornford, Tony (2011) _Total cost of ownership of open source software: a report for the UK Cabinet Office supported by OpenForum Europe_. UK Cabinet Office, London, United Kingdom. Available online at _http://eprints.lse.ac.uk/39826/_
+
+Software Freedom Law Centre (2008) _A Legal Issues Primer for Open Source and Free Software Projects._ Available online at _http://www.softwarefreedom.org/resources/2008/foss-primer.html_
