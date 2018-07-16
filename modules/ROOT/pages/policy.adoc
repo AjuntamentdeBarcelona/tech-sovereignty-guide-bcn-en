@@ -127,10 +127,13 @@ a|
 a. Contracts for the purchase and development of digital services, including those concerning the adaptation of existing systems, must give preference to solutions and services based on free technologies.
 
 b. The use of proprietary software shall only be accepted in cases in which:
++
+--
 * there is no open solution that fulfils the necessary requirements;
 * the adaptation of an existing solution in order to fulfil the requirements is not viable, and
 * the construction of a new solution, to be deployed under an open licence, is not viable.
-
+--
++
 For the purposes of this paragraph and the preceding paragraph, whether a solution is not viable shall depend on technical reasons or the necessary resources, or because the increase in the period of time in which the solution will be made available prevents the success of the project.
 
 c. The process for establishing whether the aforementioned exception is applicable is set out below in the section called “Preparation and preliminary designs”.
