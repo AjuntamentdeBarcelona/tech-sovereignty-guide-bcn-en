@@ -1,3 +1,4 @@
+[appendix]
 = Further information; references
 
 *FREE SOFTWARE FOUNDATION:*

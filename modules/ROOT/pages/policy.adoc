@@ -145,14 +145,15 @@ a|
 *Both internal and external digital service projects for development of digital services must be developed from the beginning with a view to their freeing, following the best free software development practices, and based on open technologies that allow for the final product to be released.
 Documentation, design and other elements (sounds, fonts, etc.) shall also be published under open licences.*
 a|
-a. The commitment to publishing software projects that are being developed, whether internally or outsourced, means that quality standards and common development practices used in free software projects must be taken in account from the beginning in order to safeguard success.
+[loweralpha]
+. The commitment to publishing software projects that are being developed, whether internally or outsourced, means that quality standards and common development practices used in free software projects must be taken in account from the beginning in order to safeguard success.
 A number of the elements to be included in the procurement specifications to safeguard these requirements are set out in the “Projects” sub-paragraph below.
 
-b. Furthermore, to avoid obstacles when freeing software, the use of closed source subcomponents and reliance on closed development, administration and monitoring platforms and tools must be avoided, following the other recommendations in this document (see “Development” sub-paragraph in particular).
+. Furthermore, to avoid obstacles when freeing software, the use of closed source subcomponents and reliance on closed development, administration and monitoring platforms and tools must be avoided, following the other recommendations in this document (see “Development” sub-paragraph in particular).
 
-c. The IMI has established and shall maintain a free software release and migration plan, the roll out of which will facilitate the progressive implementation of best practices in the development and use of open technologies in the City Council's digital service projects.
+. The IMI has established and shall maintain a free software release and migration plan, the roll out of which will facilitate the progressive implementation of best practices in the development and use of open technologies in the City Council's digital service projects.
 
-d. The criteria to be followed to evaluate the release of a project include: that the product responds to a general need (and not a specific need of Barcelona City Council), that it compares favourably in some aspects with other existing free projects that resolve the same problem, that the City Council is able to do it legitimately in terms of third party rights, that the product can be run on free platforms and that it has sufficient technical quality and the documentation required to be used by third parties.
+. The criteria to be followed to evaluate the release of a project include: that the product responds to a general need (and not a specific need of Barcelona City Council), that it compares favourably in some aspects with other existing free projects that resolve the same problem, that the City Council is able to do it legitimately in terms of third party rights, that the product can be run on free platforms and that it has sufficient technical quality and the documentation required to be used by third parties.
 |===
 
 [cols="",options="header",]
