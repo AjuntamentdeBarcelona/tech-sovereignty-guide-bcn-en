@@ -198,7 +198,7 @@ The use of free software and the corresponding open technology and development m
 Preliminary projects (for example, initial designs of a system to be built) are a key piece in the IMI's public procurement and acquisition process.
 Their reports must always include options based on open technologies.
 
-These principles are structured around the following three guidelines:
+These principles are structured around the following guidelines:
 
 [cols="",options="header",]
 |===
@@ -270,6 +270,7 @@ c. Decisions must also take into consideration how to maximise the net economic 
 [cols="",options="header",]
 |===
 |*Procurement of projects and services*
+a|
 *Contracts for new projects or the expansion of existing projects shall contain standard clauses based on these principles, including for preliminary projects in which technologies are preselected, in addition to framework agreements and contracts in separate batches. These clauses shall require the use of solutions based on free technologies, with the exception of the special circumstances provided for under “Acquisition”.*
 a|
 a. The IMI shall produce these standard clauses for the Technology Procurement Guide and include them in the form of an appendix.
@@ -302,7 +303,7 @@ e. Projects shall also have a continuous integration system that makes it possib
 |===
 |*Code and document maintenance*
 a|
-*During the contract term, IT development service providers shall collaborate with the IMI to ensure that the code is available in adequate version control systems. Furthermore, all systems and services must be correctly documented for administrators, users and developers, including instructions required for installation, demployment and configuration of the service in free and open environments.*
+*During the contract term, IT development service providers shall collaborate with the IMI to ensure that the code is available in adequate version control systems. Furthermore, all systems and services must be correctly documented for administrators, users and developers, including instructions required for installation, deployment and configuration of the service in free and open environments.*
 a|
 a. Tender specifications shall establish the period and form in which the contractor is obliged to maintain and support the code .
 
