@@ -16,7 +16,7 @@ The policy on the technological sovereignty of the City Council is based on the 
 
 Generally speaking, these principles consist of:
 
-* The use of open standards for all digital services.
+* The use of free standards for all digital services.
 * The prioritisation of free software and the reuse of IT resources.
 * A new relationship model with providers and free software communities.
 * A flexible intellectual property policy.
@@ -27,28 +27,28 @@ These principles and guidelines will be rolled out progressively via projects fo
 This shall enable an iterative management of change implied by applying this policy within the organism via specific projects.
 Some projects and their extensions (for example, Decidim Barcelona, Sentilo, BIMA) already comply with these guidelines, whereas others will gradually become aligned with them as part of a more progressive implementation process.
 
-== Open standards and interoperability
+== Free standards and interoperability
 
 The digital services of Barcelona City Council must be implemented using shared and open architectures for services, information and technology.
 Services will be built by implementing shared solutions in terms of system integration and their interfaces.
-The solutions will use open standards.
+The solutions will use free standards.
 
 [cols="",options="header",]
 |===
 |*Interoperability*
 a|
-*All of Barcelona City Council's digital services will support interoperability, based mainly on the use of open standards and formats.*
+*All of Barcelona City Council's digital services will support interoperability, based mainly on the use of free standards and formats.*
 a|
 [loweralpha]
-. The interoperability requirements of each system, both externally having an impact on citizens, and in terms of the exchange of information in internal processes, shall be implemented based on open standards and formats, with the sole exception of systems that have already been deployed, for which there is no plan in place yet for their replacement.
+. The interoperability requirements of each system, both externally having an impact on citizens, and in terms of the exchange of information in internal processes, shall be implemented based on free standards and formats, with the sole exception of systems that have already been deployed, for which there is no plan in place yet for their replacement.
 
 . Particular emphasis shall be placed on interoperability for the future: this ensures that the data retained by the City Council can be used (exploited, modified and expanded upon) regardless of the applications (and providers) that are used in the future.
 
-. When interoperability is required from systems that have already been rolled out and that use closed standards or formats, the option of amending these systems shall be considered by adapting them to open standards.
+. When interoperability is required from systems that have already been rolled out and that use nonfree standards or formats, the option of amending these systems shall be considered by adapting them to free standards.
 
 . The interoperability needs of each system that must be developed or acquired shall be detailed in the tender specifications.
 Two different sets of circumstances may apply:
-* In the event that a specific interoperability need is covered by an internationally accepted open standard, the tender specifications shall provide the name and version of this standard.
+* In the event that a specific interoperability need is covered by an internationally accepted free standard, the tender specifications shall provide the name and version of this standard.
 * When a specific interoperability need cannot be covered by an existing standard, the technical documents attached to the tender specifications shall contain full details of the information, protocols, interfaces, formats and processes to be used.
 These details shall make its implementation possible without having to resort to specific products or providers.
 
@@ -58,18 +58,18 @@ _http://ajuntament.barcelona.cat/arxiu-municipal/sites/default/files/InstruccioP
 
 [cols="",options="header",]
 |===
-|*The use of open standards*
+|*The use of free standards*
 a|
-*The City Council's digital services shall use open standards on a mandatory basis and, in particular, the contents of the catalogue of standards set out by the Technical Interoperability Norm (specified under Royal Decree 4/2010) or internationally accepted open standards that update, replace or complement these standards.
-When no approved open standard exists in the required format, a proposed format shall be submitted conforming with applicable regulations and the IMI's requirements for the open standards.*
+*The City Council's digital services shall use free standards on a mandatory basis and, in particular, the contents of the catalogue of standards set out by the Technical Interoperability Norm (specified under Royal Decree 4/2010) or internationally accepted free standards that update, replace or complement these standards.
+When no approved free standard exists in the required format, a proposed format shall be submitted conforming with applicable regulations and the IMI's requirements for the free standards.*
 a|
 [loweralpha]
-. An open standard must satisfy the following conditions:
+. A free standard must satisfy the following conditions:
 * It is public and can be used free of charge or at a cost that poses no difficulty in terms of access.
 * Its use and application are not dependent on the payment of an intellectual or industrial property right.
 
-. Open formats and standards shall be designed using the standard channel for exchanging information with citizens and no alternative or complementary method that uses closed options.
-Under no circumstances shall citizens be required to file an express request or perform additional activities to exercise their right to use open formats and standards.
+. Free formats and standards shall be designed using the standard channel for exchanging information with citizens and no alternative or complementary method that uses closed options.
+Under no circumstances shall citizens be required to file an express request or perform additional activities to exercise their right to use free formats and standards.
 
 . Under no circumstances may the City Council force citizens to purchase or use systems belonging to specific suppliers to access public services.
 The foregoing would amount to ensuring that these providers have a monopoly, sanctioned by the public authority.
@@ -285,7 +285,7 @@ a|
 [loweralpha]
 . The economic calculations must be specific to the project's needs; however, the spill over effects (secondary costs and benefits) must also be considered, for example, through the reuse of technology by public administrations and the acquisition of internal skills.
 
-. Hidden costs must be taken into consideration (for example, exit costs when implementing proprietary or non-standard solutions) in addition to encouraging the procurement of products that satisfy open standards and include an adequate level of interoperability moving forwards.
+. Hidden costs must be taken into consideration (for example, exit costs when implementing proprietary or non-standard solutions) in addition to encouraging the procurement of products that satisfy free standards and include an adequate level of interoperability moving forwards.
 
 . Decisions must also take into consideration how to maximise the net economic and social benefits for the local economy and society in general, in the medium to long term.
 |===

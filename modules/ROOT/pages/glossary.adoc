@@ -29,9 +29,9 @@ This situation may arise for several reasons, for example:
 
 * A lack of technical skills on the part of the client or organisation, thereby preventing the service from being taken on with internal resources once it has been developed.
 
-*OPEN STANDARDS*
+*FREE STANDARDS*
 
-An open standard is a standard that meets the following conditions:
+A free standard is a standard that meets the following conditions:
 
 [loweralpha]
 . It is public and available for use for free or at a cost that does not make it difficult to access.
