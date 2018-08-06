@@ -1,8 +1,21 @@
-// include::README.adoc[tag=metadata]
+// (1/4) CHANGE TOC POSITION AND LEVELS, IF NEEDED. ALSO :sectnums:
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
 
-// (1/4) CHANGE TOC POSITION AND LEVELS, IF NEEDED.
+include::{partialsdir}/README.adoc[tag=metadata]
+
+ifndef::env-site,env-github[]
 :toc: left
+endif::[]
 :toclevels: 2
+
+= {doctitle}
+
+:sectnums!:
+
+[abstract]
+{_summary}
 
 :leveloffset: +1
 // (2/4) ADD BELOW THE LIST OF *UNNUMBERED* (e.g. PREAMBLE) CHAPTERS OR
@@ -25,10 +38,12 @@ include::interoperability.adoc[]
 
 include::policy.adoc[]
 
+
 // (4/4) ADD BELOW THE LIST OF APPENDIXES. IMPORTANT: PUT A BLANK LINE BETWEEN
 // INCLUDES.
+
+[appendix]
 include::glossary.adoc[]
 
+[appendix]
 include::references.adoc[]
-
-:leveloffset: -1

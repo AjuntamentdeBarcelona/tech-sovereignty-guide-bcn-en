@@ -1,4 +1,14 @@
-= Interoperability, open standards and formats
+= Interoperability, free standards and formats
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
 
 Interoperability is the capacity of different information systems, possibly from different providers, to work together and share information without technical or legal boundaries.
 A more detailed definition of _interoperability_ and its different scopes (organisational, semantic, technical and temporary) is available in the glossary.
@@ -10,19 +20,19 @@ To prevent this phenomenon, the freedom of using and implementing standards in a
 Generally speaking, a standard is a rule or specification on specific engineering or technical criteria, methods, processes or practices, generally achieved via the consensus of the interested parties.
 Normally, rules are created by formal organisations like the ITU, ISO, IETF, W3C, OASIS, etc.
 
-By adopting an open standard for a digital service, the administration and its end users are not limited to resorting to a specific provider and this decreases vendor lock-in; therefore, it is possible to increase the user's options and as a result, the market is more competitive in terms of the technologies and solutions that comply with the standard.
+By adopting a free standard for a digital service, the administration and its end users are not limited to resorting to a specific provider and this decreases vendor lock-in; therefore, it is possible to increase the user's options and as a result, the market is more competitive in terms of the technologies and solutions that comply with the standard.
 
-It has been argued that an open standard is more than a mere specification.
-An open standard is “open” on the basis of its underlying principles and the way in which it has been developed publicly and been approved and, therefore, is accessible.
+It has been argued that a free standard is more than a mere specification.
+A free standard is “free” on the basis of its underlying principles and the way in which it has been developed publicly and been approved and, therefore, is accessible.
 It is governed by a process of collaboration and consensus.
-An open standard is generally based on the principle that it is available so that each user can gain access, read and implement it without royalties or costs.
+A free standard is generally based on the principle that it is available so that each user can gain access, read and implement it without royalties or costs.
 It has been argued that a minimum or “reasonable” fee (for example, for a standardisation organisation to ensure compliance) could be enforced, which must be reasonable and non-discriminatory (RAND).
 However, to many this is unacceptable, as it inhibits, for example, deployments in free software.
 
-The Barcelona City Council believes that the use of open standards:
+The Barcelona City Council believes that the use of free standards:
 
 * Promotes interoperability and compatible integration between the multiple information systems and data series of the City Council, both internally and those interrelated with other external data and systems.
-Therefore, open standards are a prerequisite for technological neutrality.
+Therefore, free standards are a prerequisite for technological neutrality.
 
 * Establishes standard rules and reduces the differences between technical specifications, creating a level playing field, which decreases obstacles to the development and provision of competitive services locally, regionally and internationally, catalysing innovation whilst reducing costs.
 
@@ -34,15 +44,15 @@ Thus, open, public specifications safeguard the preservation, longevity, integri
 * Reduces overlaps, allowing interdependent systems and entities to work together to complete or fulfil a process at a lower cost.
 
 * Facilitates interaction between citizens and public administrations and private entities, as no specific software provider has to be used.
-A company or person using software based on open standards will never be obliged to purchase competing software to exercise their right to communicate with the public administration.
+A company or person using software based on free standards will never be obliged to purchase competing software to exercise their right to communicate with the public administration.
 
 * Ensures the representation of more interests in the sector, thus ensuring continuous improvement, support, competition between providers and greater flexibility between technological options.
-This reduces the risk assumed by the City Council, in such a way that its users adopt the open standard specifications when the City Council's systems are integrated with those of its providers, citizens and other partners.
+This reduces the risk assumed by the City Council, in such a way that its users adopt the free standard specifications when the City Council's systems are integrated with those of its providers, citizens and other partners.
 
 * Promotes the use of free software, as the production process consists of defining publicly available specifications.
 The availability of its source code also promotes an open and democratic debate in terms of the specifications, making them more robust and interoperable.
 
-The City Council believes that the minimum characteristics for a specification and its associated documentation for them to be considered open standards are as follows:
+The City Council believes that the minimum characteristics for a specification and its associated documentation for them to be considered free standards are as follows:
 
 * The rule is adopted and shall be maintained by a non-profit organisation and its continuous development is structured around an open decision-making procedure available to all the interested parties (consensual protection of privacy in the e-communication sector or majority decision).
 

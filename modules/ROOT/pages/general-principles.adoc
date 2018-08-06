@@ -1,24 +1,34 @@
 = General Principles of Technological Sovereignty
+:experimental:
+:icons: font
+:page-partial:
+:source-highlighter: highlightjs
+
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+include::{partialsdir}/README.adoc[tag=metadata]
 
 On 6 October 2016, the Commissioner for Technology and Digital Innovation presented the 2017–2020 Digital Barcelona Plan: Transition towards technological sovereignty, the goal of which is “to resolve the challenges of the city and its citizens through a more democratic use of technology.
 Boosting technological and digital innovation, for a more open government, as a tool for developing a plural economy that promotes social and environmental transformation and that promotes citizen empowerment”.
 
 The Plan, structured around three axes, demonstrates Barcelona's desire to lead the transition towards technological sovereignty, a technological sovereignty of government and citizens that enables them to participate in the decision-making process and take action concerning the technological priorities and strategies in use throughout the city.
-In particular, in terms of the government and city, the Plan focuses on an open and efficient government that uses technology to transform and digitally innovate the public sector based on free software and open standards.
+In particular, in terms of the government and city, the Plan focuses on a open and efficient government that uses technology to transform and digitally innovate the public sector based on free software standards.
 Furthermore, the aim is to set up an open public data infrastructure to develop innovative data-based applications.
 
 According to the Government Measure, technological sovereignty of government and citizens will make it possible to determine and take action concerning the priorities in the use of technology, make decisions about how to develop our city and regain knowledge of the city's management using technological tools — knowledge that, to date, was held by just a few companies for the most part.
 This sovereignty will make it possible to leave this knowledge as a lasting legacy for the city.
-In addition, this technological sovereignty, promoted using open standards, must be a tool for the common good that generates a new economy and also makes knowledge-sharing possible between different cities.
+In addition, this technological sovereignty, promoted using free standards, must be a tool for the common good that generates a new economy and also makes knowledge-sharing possible between different cities.
 
 Within the framework of this plan, in addition to designing public services as “digital services by default”, placing citizens at the centre of the design process and contributing public value, services must be built in the most agile and open manner possible; they must be simple, modular and interoperable to avoid dependencies on vendors and providers of specific proprietary solutions.
-Consequently, the use of free software and open standards must be prioritised.
+Consequently, the use of free software standards must be prioritised.
 
-The Measure establishes the “transition towards free software and standards” as one of the most important activities: the transition towards free software and open standards, through the exploration of the best Spanish and European practices in this field.
+The Measure establishes the “transition towards free software and standards” as one of the most important activities: the transition towards free software standards, through the exploration of the best Spanish and European practices in this field.
 To this end, a migration plan and a code of best practices for technology will be defined and established to guide the internal transformation, the reuse and sharing of the software with third parties and the development and use of shared government solutions.
 
 For these reasons, technological sovereignty within the 2017-2020 Digital Barcelona Plan is structured around three fundamental principles:
 
 * The transition and use of free software
 * The interoperability of services and systems
-* The use of open standards
+* The use of free standards
