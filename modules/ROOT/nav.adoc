@@ -4,5 +4,5 @@
 * xref:public-administration.adoc[Free software and the Public Administration]
 * xref:interoperability.adoc[Interoperability, free standards and formats]
 * xref:policy.adoc[Policy on technological sovereignty and guidelines for its implementation]
-* xref:glossary.adoc[Glossary]
+* xref:glossary:ROOT:glossary.adoc[Glossary]
 * xref:references.adoc[Further information; references]
