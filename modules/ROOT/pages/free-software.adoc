@@ -49,7 +49,7 @@ Under this definition, licences must fulfil ten conditions to be considered as o
 . The licence must not place restrictions on other software: the licence must not insist that all other programs distributed on the same medium must be open-source software.
 . The licence must be technology-neutral.
 
-These guidelines ensure, amongst other things, that a licence certified as being “open sources” grants to the user the aforementioned rights to exploit the software and, therefore, guarantees that it is on a non *discriminatory basis* and that licensees can *access the source code.*
+These guidelines ensure, amongst other things, that a licence certified as being “open source” grants to the user the aforementioned rights to exploit the software and, therefore, guarantees that it is on a non *discriminatory basis* and that licensees can *access the source code.*
 
 Legally speaking, there is no difference between the definition of free software and the open source guidelines.
 This means, in any case and in terms of the licence, that the user can reproduce, transform (improve, adapt, integrate into other programs) and distribute or redistribute the programme and any resulting code for any purpose.
@@ -124,10 +124,13 @@ For the purposes of freely distributing free software, no fee is charged: there 
 This prevents vendors trying to offer free software for a fee.
 Redhat Inc., for example, can charge for its distribution of GNU/Linux (for example, Red Hat Enterprise) essentially because it offers additional products and services: performance warranties, support services, administrative or installation applications.
 
-TIP: We should share what we’re doing whenever we can.
+[quote, UK Government, https://www.gov.uk/design-principles#tenth]
+____
+We should share what we’re doing whenever we can.
 With colleagues, with users, with the world.
 Share code, share designs, share ideas, share intentions, share failures.
-The more eyes there are on a service the better it gets - errors are spotted, better alternatives are identified, the bar is raised. +
+The more eyes there are on a service the better it gets - errors are spotted, better alternatives are identified, the bar is raised.
+
 Much of what we’re doing is only possible because of open source code and the generosity of the web design community.
-We should return the favour. +
-https://www.gov.uk/design-principles#tenth
+We should return the favour.
+____
