@@ -79,7 +79,7 @@ This, together with the variety of additional conditions that may be included, i
 The most important difference can be traced to the redistribution conditions and the extent of _copyleft_, which is usually used as a criteria for classifying or differentiating licences.
 
 [loweralpha]
-. If the program has been licensed under a “*permissive*” license (such as BSD r X/MIT licenses), generally speaking, no conditions apply in terms of redistribution, which means it can be mixed with any other software.
+. If the program has been licensed under a “*lax permissive*” license (such as BSD or X11/MIT licenses), generally speaking, no conditions apply in terms of redistribution, which means it can be mixed with any other software.
 . If the program has been licensed under the GPL licence or another licence “*with _copyleft_*”, then the redistribution of the programme or any other derivative or composite work including it, must be subject to the same licence, and offer the user access to the source code.
 This ensures that the program remains “free” and cannot be “privatised”.
 . Some “intermediate” licences, or licences with “_*soft copyleft*_” (such as the LGPL, MPL or EUPL) make it possible to add or integrate new code into the original code and distribute the combination under a new licence (proprietary or free).
