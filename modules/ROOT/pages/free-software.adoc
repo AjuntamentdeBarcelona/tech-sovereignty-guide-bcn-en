@@ -88,15 +88,9 @@ This is a form of partial _copyleft_.
 
 The most common and well-known licences are as follows:
 
-* Permissive: MIT, BSD, Apache Software License 2.0
-* _Copyleft:_ GPLv2 and GPLv3, AferroGPL3
-* _Weak (or “narrower”)_ copyl__eft__: LGPL (version 2 or 3), MPL (version 2), CPL (Common Public License)
-
-One way of understanding the difference between permissive licenses and licences with _copyleft_ is that they guarantee different types of freedoms:
-
-[loweralpha]
-. A permissive free software licence, such as the BSD or MIT licence, offers developers more freedom, as they can integrate and redistribute the software in deployments under both free and/or proprietary software.
-. A free software licence with _copyleft_ offers more freedom to the end users, as they will always receive applications with their source code and under a free software licence.
+* Lax permissive: X11, Expat, modified BSD, Apache Software License 2.0
+* _Copyleft:_ GPLv2 and GPLv3, Affero GPL3
+* _Weak (or “narrower”)_ copyleft: LGPL (version 2 or 3), MPL (version 2), CPL (Common Public License).
 
 == Advantages
 
