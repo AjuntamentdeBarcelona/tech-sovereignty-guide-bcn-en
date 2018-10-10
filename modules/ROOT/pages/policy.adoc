@@ -534,5 +534,5 @@ Nor is it recommended to use very rare or unknown licences.
 
 . Trademarks serve to differentiate projects and prevent imitations or similar projects (including forks), that could exploit the reputation and efforts of the original project sponsored by or belonging to the City Council.
 
-. The trademark use policy shal allow the community and third parties adopting or implementing the software to use the project trademark whilst restricting its commercial use by third parties in breach of the rules defined by the community and the City Council.
+. The trademark use policy shall allow the community and third parties adopting or implementing the software to use the project trademark whilst restricting its commercial use by third parties in breach of the rules defined by the community and the City Council.
 --
