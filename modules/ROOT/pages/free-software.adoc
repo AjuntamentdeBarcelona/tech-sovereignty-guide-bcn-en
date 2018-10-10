@@ -49,15 +49,15 @@ Under this definition, licences must fulfil ten conditions to be considered as o
 . The licence must not place restrictions on other software: the licence must not insist that all other programs distributed on the same medium must be open-source software.
 . The licence must be technology-neutral.
 
-These guidelines ensure, amongst other things, that a licence certified as being “open sources” grants to the user the aforementioned rights to exploit the software and, therefore, guarantees that it is on a non *discriminatory basis* and that licensees can *access the source code.*
+These guidelines ensure, amongst other things, that a licence certified as being “open source” grants to the user the aforementioned rights to exploit the software and, therefore, guarantees that it is on a non *discriminatory basis* and that licensees can *access the source code.*
 
-Legally speaking, there is no difference between the definition of free software and the open source guidelines.
-This means, in any case and in terms of the licence, that the user can reproduce, transform (improve, adapt, integrate into other programs) and distribute or redistribute the programme and any resulting code for any purpose.
-From a technical and practical perspective, both the free software freedoms and the OSI Guidelines substantially overlap (while the philosophical views of the supporting institutions may be quite different).
+From a practical perspective, both the free software freedoms and the OSI guidelines substantially overlap.
+There are very few licenses accepted by only one organization (the FSF or OSI) and not the other, and those licenses are not among the most widespread.
+This does not preclude that the philosophical views supporting both camps and the stated goals of FSF and OSI may be quite different.
 
 == CopyLeft
 
-Free software licences with _copyleft_ go beyond merely guaranteeing the basic four freedoms of the software for licensees or direct users.
+Free software licences with _copyleft_ go beyond merely granting the basic four freedoms of the software for licensees or direct users.
 A licence that awards the aforementioned rights without imposing conditions allows the licensee to include the free software in another software programme and redistribute the result under a restrictive or “proprietary” licence, in such a way that the users of the new programme will not attain any of the freedoms originally awarded.
 In other words, there is no guarantee that the free software remains free.
 Therefore, a mechanism was required to safeguard this freedom: *copyleft*.
@@ -79,24 +79,18 @@ This, together with the variety of additional conditions that may be included, i
 The most important difference can be traced to the redistribution conditions and the extent of _copyleft_, which is usually used as a criteria for classifying or differentiating licences.
 
 [loweralpha]
-. If the program has been licensed under a “*permissive*” license (such as BSD r X/MIT licenses), generally speaking, no conditions apply in terms of redistribution, which means it can be mixed with any other software.
+. If the program has been licensed under a “*lax permissive*” license (such as BSD or X11/MIT licenses), generally speaking, no conditions apply in terms of redistribution, which means it can be mixed with any other software.
 . If the program has been licensed under the GPL licence or another licence “*with _copyleft_*”, then the redistribution of the programme or any other derivative or composite work including it, must be subject to the same licence, and offer the user access to the source code.
 This ensures that the program remains “free” and cannot be “privatised”.
-. Some “intermediate” licences, or licences with “_*soft copyleft*_” (such as the LGPL, MPL or EUPL) make it possible to add or integrate new code into the original code and distribute the combination under a new licence (proprietary or free).
+. Some “intermediate” licences, or licences “*with _soft copyleft_*” (such as the LGPL, MPL or EUPL) make it possible to add or integrate new code into the original code and distribute the combination under a new licence (proprietary or free).
 However, the original part must be offered under the original licence, normally along with the source code.
 This is a form of partial _copyleft_.
 
 The most common and well-known licences are as follows:
 
-* Permissive: MIT, BSD, Apache Software License 2.0
-* _Copyleft:_ GPLv2 and GPLv3, AferroGPL3
-* _Weak (or “narrower”)_ copyl__eft__: LGPL (version 2 or 3), MPL (version 2), CPL (Common Public License)
-
-One way of understanding the difference between permissive licenses and licences with _copyleft_ is that they guarantee different types of freedoms:
-
-[loweralpha]
-. A permissive free software licence, such as the BSD or MIT licence, offers developers more freedom, as they can integrate and redistribute the software in deployments under both free and/or proprietary software.
-. A free software licence with _copyleft_ offers more freedom to the end users, as they will always receive applications with their source code and under a free software licence.
+* Lax permissive: X11, Expat, modified BSD, Apache Software License 2.0
+* _Copyleft:_ GPLv2 and GPLv3, Affero GPL3
+* _Weak (or “narrower”)_ copyleft: LGPL (version 2 or 3), MPL (version 2), CPL (Common Public License).
 
 == Advantages
 
@@ -124,10 +118,13 @@ For the purposes of freely distributing free software, no fee is charged: there 
 This prevents vendors trying to offer free software for a fee.
 Redhat Inc., for example, can charge for its distribution of GNU/Linux (for example, Red Hat Enterprise) essentially because it offers additional products and services: performance warranties, support services, administrative or installation applications.
 
-TIP: We should share what we’re doing whenever we can.
+[quote, UK Government, https://www.gov.uk/design-principles#tenth]
+____
+We should share what we’re doing whenever we can.
 With colleagues, with users, with the world.
 Share code, share designs, share ideas, share intentions, share failures.
-The more eyes there are on a service the better it gets - errors are spotted, better alternatives are identified, the bar is raised. +
+The more eyes there are on a service the better it gets - errors are spotted, better alternatives are identified, the bar is raised.
+
 Much of what we’re doing is only possible because of open source code and the generosity of the web design community.
-We should return the favour. +
-https://www.gov.uk/design-principles#tenth
+We should return the favour.
+____

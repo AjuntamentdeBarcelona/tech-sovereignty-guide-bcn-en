@@ -14,7 +14,7 @@ On 6 October 2016, the Commissioner for Technology and Digital Innovation presen
 Boosting technological and digital innovation, for a more open government, as a tool for developing a plural economy that promotes social and environmental transformation and that promotes citizen empowerment”.
 
 The Plan, structured around three axes, demonstrates Barcelona's desire to lead the transition towards technological sovereignty, a technological sovereignty of government and citizens that enables them to participate in the decision-making process and take action concerning the technological priorities and strategies in use throughout the city.
-In particular, in terms of the government and city, the Plan focuses on a open and efficient government that uses technology to transform and digitally innovate the public sector based on free software standards.
+In particular, in terms of the government and city, the Plan focuses on a open and efficient government that uses technology to transform and digitally innovate the public sector based on free software and standards.
 Furthermore, the aim is to set up an open public data infrastructure to develop innovative data-based applications.
 
 According to the Government Measure, technological sovereignty of government and citizens will make it possible to determine and take action concerning the priorities in the use of technology, make decisions about how to develop our city and regain knowledge of the city's management using technological tools — knowledge that, to date, was held by just a few companies for the most part.

@@ -12,7 +12,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Principles and guidelines
 
-The policy on the technological sovereignty of the City Council is based on the principles and guidelines set out in the 2017-2020 Digital Barcelona Plan: Transition towards technological sovereignty, digital service standards and the Code of Technological Practices.
+The policy on the technological sovereignty of the City Council is based on the principles and guidelines set out in the 2017-2020 Digital Barcelona Plan: Transition towards technological sovereignty, digital service standards and the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice].
 
 Generally speaking, these principles consist of:
 
@@ -116,7 +116,7 @@ When the City Council has access to the source code of its applications, in addi
 Furthermore, a free software-based system is particularly useful when building services to be used by different municipal institutions and that can be shared with other administrations as well as with the wider user community.
 Public access to the source code is also a guarantee of transparency in terms of particularly important or sensitive systems, such as, for example, electronic voting or tax calculation systems.
 
-Along these lines, the main elements of this policy, as defined in the Code of Technological Practices, can be seen below.
+Along these lines, the main elements of this policy, as defined in the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice], can be seen below.
 We will discuss each element in more detail, offering explanations and guidance for their implementation.
 
 === GENERAL GUIDELINES
@@ -129,7 +129,7 @@ The IMI's basic free software principles for complying with the city's technolog
 . With this objective in mind, internal development programs shall be based, by default, on open technologies that allow the final product to be freed.
 . Free software shall be used progressively by all municipal systems and applications as provided for by the City Council's free software migration plan.
 
-These principles are structured around the following guidelines set out in the Code of Technological Practices:
+These principles are structured around the following guidelines set out in the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice]:
 
 ****
 *Acquisition*

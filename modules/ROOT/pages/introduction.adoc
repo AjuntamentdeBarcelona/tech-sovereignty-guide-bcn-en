@@ -12,12 +12,21 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Objective
 
-This document is a *supporting document* for the *Code of Technological Practices* that puts the concept of technological sovereignty into practice, expanding on the principles that govern the new directorate at the Barcelona Municipal Institute of Information Technology (IMI) in terms of technology and innovation: interoperability, agility, reuse, ethics and making knowledge and technologies more open.
+This document is a supporting document for the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice] that puts the concept of *technological sovereignty* into practice, expanding on the principles that govern the new directorate at the xref:glossary:ROOT:glossary.adoc#imi[Barcelona Municipal Institute of Information Technology (IMI)] in terms of technology and innovation: interoperability, agility, reuse, ethics and making knowledge and technologies more open.
 
 This document seeks to assist the IMI in implementing the strategic approach of the Barcelona City Council, which involves rolling out *open technologies and free software* for most of its technological processes and services.
 This principle of technological sovereignty, combined with the *agile methodology for developing services and responsible data management*, form the basis of the medium-term vision for the agile digital transformation in the city of Barcelona.
 
-According to the Paris Declaration on the Open Government Partnership, __“Open Source Software contributes to fostering transparency and collaboration. Source code is at the heart of digital and technical innovation. It is the primary means to providing high quality digital services. Partners joining will seek to promote transparency and accountability of open source code and algorithms they develop and use, wherever possible and appropriate. Partners joining will seek to design and implement them in non-discriminatory manners, and work towards maximizing the benefits of government code sharing and reuse.”__.footnote:[Paris Declaration for Open Government Partnership; available online at https://paris-declaration.ogpsummit.org/topic/5820e48c2fd812b46ab9facc]
+According to the Paris Declaration on the Open Government Partnership:
+
+[quote, Paris Declaration for Open Government Partnership, https://paris-declaration.ogpsummit.org/topic/5820e48c2fd812b46ab9facc]
+____
+Open Source Software contributes to fostering transparency and collaboration.
+Source code is at the heart of digital and technical innovation.
+It is the primary means to providing high quality digital services.
+Partners joining will seek to promote transparency and accountability of open source code and algorithms they develop and use, wherever possible and appropriate.
+Partners joining will seek to design and implement them in non-discriminatory manners, and work towards maximizing the benefits of government code sharing and reuse.
+____
 
 Therefore, an important objective of this document is to help participants and those interested in the digital services of the Barcelona City Council to work with free technologies, solutions and projects; to understand the rights and duties resulting from free licences; to promote the development, acquisition, use and release of software; to ensure that its advantages are harnessed and to eliminate any reluctance that may exist due to the lack of knowledge around the various technical, organisational and legal aspects.
 
