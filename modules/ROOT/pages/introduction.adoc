@@ -10,7 +10,7 @@ endif::[]
 
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== OBJECTIVE
+== Objective
 
 This document is a *supporting document* for the *Code of Technological Practices* that puts the concept of technological sovereignty into practice, expanding on the principles that govern the new directorate at the Barcelona Municipal Institute of Information Technology (IMI) in terms of technology and innovation: interoperability, agility, reuse, ethics and making knowledge and technologies more open.
 
@@ -21,6 +21,6 @@ According to the Paris Declaration on the Open Government Partnership, __“Open
 
 Therefore, an important objective of this document is to help participants and those interested in the digital services of the Barcelona City Council to work with free technologies, solutions and projects; to understand the rights and duties resulting from free licences; to promote the development, acquisition, use and release of software; to ensure that its advantages are harnessed and to eliminate any reluctance that may exist due to the lack of knowledge around the various technical, organisational and legal aspects.
 
-== AREA OF APPLICATION
+== Area of application
 
 This document will be applied to the management and governance of new digital service projects that fall within the Barcelona City Council's digital transformation plan.
