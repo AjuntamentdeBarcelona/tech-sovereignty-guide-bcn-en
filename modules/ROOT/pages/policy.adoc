@@ -35,12 +35,12 @@ The solutions will use free standards.
 
 [.policy]
 .Interoperability
-====
+****
 
 [.policy-summary]
-======
+******
 All of barcelona city council's digital services will support interoperability, based mainly on the use of free standards and formats.
-======
+******
 
 [loweralpha]
 . The interoperability requirements of each system, both externally having an impact on citizens, and in terms of the exchange of information in internal processes, shall be implemented based on free standards and formats, with the sole exception of systems that have already been deployed, for which there is no plan in place yet for their replacement.
@@ -57,17 +57,17 @@ These details shall make its implementation possible without having to resort to
 
 . As an example of a specific case implementing these interoperability guidelines, please consult the City document management policy (at
 _http://ajuntament.barcelona.cat/arxiu-municipal/sites/default/files/InstruccioPoliticaGD_cat.pdf_)
-====
+****
 
 [.policy]
 .The use of free standards
-====
+****
 
 [.policy-summary]
-======
+******
 The City Council's digital services shall use free standards on a mandatory basis and, in particular, the contents of the catalogue of standards set out by the Technical Interoperability Norm (specified under Royal Decree 4/2010) or internationally accepted free standards that update, replace or complement these standards.
 When no approved free standard exists in the required format, a proposed format shall be submitted conforming with applicable regulations and the IMI's requirements for the free standards.
-======
+******
 
 [loweralpha]
 . A free standard must satisfy the following conditions:
@@ -79,40 +79,40 @@ Under no circumstances shall citizens be required to file an express request or 
 
 . Under no circumstances may the City Council force citizens to purchase or use systems belonging to specific suppliers to access public services.
 The foregoing would amount to ensuring that these providers have a monopoly, sanctioned by the public authority.
-====
+****
 
 [.policy]
 .Identification of standards and formats
-====
+****
 
 [.policy-summary]
-======
+******
 The IMI will maintain public lists of technical formats and standards in use, categorised as mandatory, priority or recommended.
-======
+******
 
 [loweralpha]
 . To facilitate the specification and procurement of systems and solutions, the IMI will maintain a list of technical standards that must be used.
 . The IMI would update the list in terms of both the evolution of national regulations and the evolution of international standards developed by the corresponding standardisation institutions.
 . Some standards may be mandatory for specific uses and recommended for others.
-====
+****
 
 [.policy]
 .Selection of standards
-====
+****
 
 [.policy-summary]
-======
+******
 The selection of standards shall be subject to an open and transparent selection process based on users' needs, flexibility, the promotion of free competition and free collaboration and the implications on future interoperability.
 This process must be formally approved.
 Areas with their own legal framework shall be subject to the specific standards (for example, Geodata).
-======
+******
 
 [loweralpha]
 . Applying a formal selection process is recommended, based on national regulations (Royal Decree 4/2010), the European Interoperability Framework (EIF) and the internationally recognised methods, such as the Common Assessment Method for Standards and Specifications (CAMSS, _https://webgate.ec.europa.eu/fpfis/mwikis/idabc-camss/index.php/Main_Page_).
 
 . Specific sectors shall maintain their own lists.
 For example, Geodata, for which a very strict framework is in place (http://www.bcn.cat/geoportal/es/estandards.html).
-====
+****
 
 == Free software and the reuse of resources
 
@@ -146,13 +146,13 @@ These principles are structured around the following guidelines set out in the x
 
 [.policy]
 .Acquisition
-====
+****
 
 [.policy-summary]
-======
+******
 The acquisition and public procurement of tools and systems shall give preference to the use of free software for all the technical architecture of the applications and services that are delivered, avoiding reliance on systems that are not free.
 The deployment and use of closed systems shall only be allowed under exceptional circumstances, which shall be reviewed on a case by case basis, pursuant to the following criteria.
-======
+******
 
 [loweralpha]
 . Contracts for the purchase and development of digital services, including those concerning the adaptation of existing systems, must give preference to solutions and services based on free technologies.
@@ -171,17 +171,17 @@ For the purposes of this paragraph and the preceding paragraph, whether a soluti
 . The process for establishing whether the aforementioned exception is applicable is set out below in the section called “Preparation and preliminary designs”.
 
 . In cases in which, pursuant to the aforementioned exceptional circumstances, it is not possible to propose a completely open overall solution, preference will be given to an architecture and a selection of components with minimal dependencies on closed source elements.
-====
+****
 
 [.policy]
 .Freeing software
-====
+****
 
 [.policy-summary]
-======
+******
 Both internal and external digital service projects for development of digital services must be developed from the beginning with a view to their freeing, following the best free software development practices, and based on open technologies that allow for the final product to be released.
 Documentation, design and other elements (sounds, fonts, etc.) shall also be published under open licences.
-======
+******
 
 [loweralpha]
 . The commitment to publishing software projects that are being developed, whether internally or outsourced, means that quality standards and common development practices used in free software projects must be taken in account from the beginning in order to safeguard success.
@@ -192,18 +192,18 @@ A number of the elements to be included in the procurement specifications to saf
 . The IMI has established and shall maintain a free software release and migration plan, the roll out of which will facilitate the progressive implementation of best practices in the development and use of open technologies in the City Council's digital service projects.
 
 . The criteria to be followed to evaluate the release of a project include: that the product responds to a general need (and not a specific need of Barcelona City Council), that it compares favourably in some aspects with other existing free projects that resolve the same problem, that the City Council is able to do it legitimately in terms of third party rights, that the product can be run on free platforms and that it has sufficient technical quality and the documentation required to be used by third parties.
-====
+****
 
 [.policy]
 .Reuse
-====
+****
 
 [.policy-summary]
-======
+******
 Software acquisition will provide incentives for reusing existing solutions.
 Development projects in which the City Council participates will attempt, on top of being released under free software licences, to offer technical and organisational facilities for their reuse by third parties.
 Where software owned by the City Council and its associated entities cannot be released under a free software licence (for technical or legal reasons), it will be made available to other administrations without the need for any valuable consideration or agreement, in accordance with applicable regulations.
-======
+******
 
 [loweralpha]
 . Whenever possible, and following prior research, projects shall reuse or extend existing free tools in order to reduce maintenance costs and reinforce open ecosystems, before contemplating the creation of similar alternatives.
@@ -218,16 +218,16 @@ This directory can be consulted online at https://ajuntamentdebarcelona.github.i
 * A centralised code repository (as described under “Development” sub-paragraph).
 
 . Bear in mind that the regulations in force (Law 40/2015, Art. 157-158) require systems owned by public administrations to be made available to other administrations that may request them, under the conditions set out therein.
-====
+****
 
 [.policy]
 .Sharing or pooling projects
-====
+****
 
 [.policy-summary]
-======
+******
 When appropriate, the possibility of collaborating with other public administrations and entities in the development of technological projects of interest shall be considered, with a view to sharing costs and promoting interoperability.
-======
+******
 
 [loweralpha]
 . Pooling projects close cooperation between municipal governments and other administrations or entities in order to jointly develop tools for everyone's benefit.footnote:[_See, for example, the CommunesPlone project: https://joinup.ec.europa.eu/community/osor/case/networks-effects-plone-belgium-and-beyond_] Participants share needs and specifications, costs, economic resources and development teams, in addition to the code that is developed.
@@ -235,7 +235,7 @@ When appropriate, the possibility of collaborating with other public administrat
 . To encourage the pooling of projects, the Localret network of towns and cities may be used, in addition to other national or international networks.
 
 . To share the required information with other administrations and entities to promote pooling, the City Council shall periodically publish software acquisition plans (road maps) that set out the forecasts for software acquisition or development for the following months or years.
-====
+****
 
 === Projects
 
@@ -248,12 +248,12 @@ These principles are structured around the following guidelines:
 
 [.policy]
 .Preparation and preliminary projects
-====
+****
 
 [.policy-summary]
-======
+******
 During contract preparation phase, it must be demonstrated that exhaustive research has been undertaken in terms of possible existing reusable solutions, both nationally and in international public repositories.
-======
+******
 
 [loweralpha]
 . The preparation phase shall study the market and establish the technological specifications and, as applicable, the technologies recommended for future municipal development or implementation projects.
@@ -281,17 +281,17 @@ To this end, contacts can be made with the maintainers and the legal owners of t
 The result of this phase shall include a description of the obligations resulting from these requirements, to be included in the procurement contract specifications.
 
 . In terms of projects that are subject to harmonised regime, it must be demonstrated that the search for reusable solutions to be deployed has been undertaken at EU level.
-====
+****
 
 [.policy]
 .Technical and functional specifications
-====
+****
 
 [.policy-summary]
-======
+******
 The proposed projects must not include any specification that prevents the proposal of solutions based on open technologies nor name specific products or providers, unless on the grounds of compatibility with existing technologies, subject to the criteria set out in this _Technological sovereignty guide_.
 The architecture, interoperability requirements and the right and capacity to modify and reuse the software of systems and services shall be considered technical characteristics and requirements.
-======
+******
 
 [loweralpha]
 . Development based on free software will not be achieved by simply mentioning this term, but by means of clarity in functional, technical and legal requirements that enables and even promotes the use of open technologies.
@@ -307,16 +307,16 @@ This does not mean that during the development phase, applying agile and iterati
 
 . Notwithstanding the foregoing, compatibility with proprietary products procured in previous tenders shall not be considered a generally acceptable exception, given that this would promote reliance on a single provider and make it difficult to take impartial procurement decisions based exclusively on the City Council's needs.
 . In contrast, there is no restriction on mentioning specific freely licenced products in the tender specifications, as this would not create any reliance on any specific provider.
-====
+****
 
 [.policy]
 .Cost calculations
-====
+****
 
 [.policy-summary]
-======
+******
 All decisions on the acquisition of technologies shall consider the total cost of the system during its long-term service life (TCO, Total Cost of Ownership) including hidden costs (for example, exit costs when replacing technology in the future when formats or interfaces are not standard) in addition to the net benefits for society.
-======
+******
 
 [loweralpha]
 . The economic calculations must be specific to the project's needs; however, the spill over effects (secondary costs and benefits) must also be considered, for example, through the reuse of technology by public administrations and the acquisition of internal skills.
@@ -324,31 +324,31 @@ All decisions on the acquisition of technologies shall consider the total cost o
 . Hidden costs must be taken into consideration (for example, exit costs when implementing proprietary or non-standard solutions) in addition to encouraging the procurement of products that satisfy free standards and include an adequate level of interoperability moving forwards.
 
 . Decisions must also take into consideration how to maximise the net economic and social benefits for the local economy and society in general, in the medium to long term.
-====
+****
 
 [.policy]
 .Procurement of projects and services
-====
+****
 
 [.policy-summary]
-======
+******
 Contracts for new projects or the expansion of existing projects shall contain standard clauses based on these principles, including for preliminary projects in which technologies are preselected, in addition to framework agreements and contracts in separate batches.
 These clauses shall require the use of solutions based on free technologies, with the exception of the special circumstances provided for under “Acquisition”.
-======
+******
 
 [loweralpha]
 . The IMI shall produce these standard clauses for the Technology Procurement Guide and include them in the form of an appendix.
 . The clauses shall not include conditions that contradict the principles indicated herein, for example, a requirement to preserve the confidentiality of code published in a public repository (whether as free and open software or not).
-====
+****
 
 [.policy]
 .Best development practices
-====
+****
 
 [.policy-summary]
-======
+******
 The development of digital infrastructures and services shall comply with best practices applied in free software development methods, using by default the agile methods applied in the IMI.
-======
+******
 
 [loweralpha]
 . Source code shall be managed effectively using modern version control systems that enable contributions to be traced and external contributions to be managed simply, and support different branches (main branch, maintenance branch, specific branches for the development of functionalities) and project forking, as applicable.
@@ -364,17 +364,17 @@ A troubleshooting forum will be available in English.
 Optionally, some projects may choose to establish platforms for participation in project development in which Spanish and Catalan are the preferred languages.
 
 . Projects shall also have a continuous integration system that makes it possible to run batches of automated tests and that publishes the results.
-====
+****
 
 [.policy]
 .Code and document maintenance
-====
+****
 
 [.policy-summary]
-======
+******
 During the contract term, IT development service providers shall collaborate with the IMI to ensure that the code is available in adequate version control systems.
 Furthermore, all systems and services must be correctly documented for administrators, users and developers, including instructions required for installation, deployment and configuration of the service in free and open environments.
-======
+******
 
 [loweralpha]
 . Tender specifications shall establish the period and form in which the contractor is obliged to maintain and support the code .
@@ -392,7 +392,7 @@ The repository of free or freed projects shall be public.
 This documentation will also be published and covered by a licence, which will be defined in the specifications, using CC0 or CC-BY-SA 3.0 by default.
 
 . All files contained in the repository referring to documentation, including user documentation if it is featured in the code repository, shall be in English and be formatted in plain text or in a lightweight markup language, such as ReStructuredText.
-====
+****
 
 === A new relationship model with providers and the community
 
@@ -409,12 +409,12 @@ These principles are structured around the following guidelines:
 
 [.policy]
 .Collaboration with free software communities and other institutions.
-====
+****
 
 [.policy-summary]
-======
+******
 Proposed projects shall study options for collaboration with technological and free software communities, in particular local communities. Collaboration with other interested entities and institutions shall be encouraged to promote social innovation and local technological products and skills.
-======
+******
 
 [loweralpha]
 . Tender specifications (projects and preliminary projects) may establish the existence and possibility of collaboration with a community of developers and users for the technologies to be selected as an assessment criterion.
@@ -423,17 +423,17 @@ Proposed projects shall study options for collaboration with technological and f
 
 . In addition to the standard channels of cooperation with open development communities (addressed under “Development”), for certain strategic projects, specific mechanisms aimed at local developer and user communities may also be mandatory.
 These may include online collaboration tools (forums, wikis, mailing lists) or presence based events (hackfests), and the main language may be either Spanish or Catalan.
-====
+****
 
 [.policy]
 .Sustainability and governance
-====
+****
 
 [.policy-summary]
-======
+******
 Projects that produce complete free and open systems or tools as a result of a development service promoted and financed by the City Council shall include a project sustainability and governance model.
 This model will include, in addition to other aspects, an idea of the definition of the community, support tools, communication and marketing activities, processes for accepting external contributions, intellectual property management and the sustainability of the tool beyond the City Council’s project.
-======
+******
 
 [loweralpha]
 . The definition of a project's “community” may include: other City Councils and public administrations, specialist sectors such as Geodata or libraries, organisations or institutions related to the project's technologies.
@@ -446,17 +446,17 @@ This model will include, in addition to other aspects, an idea of the definition
 
 . For large-scale projects, adopting (or writing) a code of conduct (in English) is recommended, with a link from the project's website and in the Readme file in the repository.
 This document serves to establish the rules of participation in the project's online communication channels, in addition to the rules of contact for possible in-person events.
-====
+****
 
 [.policy]
 .External contributions
-====
+****
 
 [.policy-summary]
-======
+******
 Projects led or freed by the City Council shall encourage contributions from external stakeholders.
 Specific rules shall be established, adapted to each case, for the management of rights over these contributions, in order to ensure compliance with third party rights and applicable regulations.
-======
+******
 
 [loweralpha]
 . The recommendations in this section seek to achieve the following objectives for projects freed by the City Council:
@@ -473,17 +473,17 @@ Specific rules shall be established, adapted to each case, for the management of
 With this objective in mind, instructions shall be provided on project programming styles and standards and how to make contributions from a legal perspective (as explained under “Intellectual property” and “Legal management” below).
 
 . To ensure that contributions are traceable and that fragments of code that may pose a legal risk can be eliminated, as the case may be, all contributions that are ultimately included in the product must be signed by a party authorised by project maintainers in accordance with the protocol for a Developers Certificate of Origin (DCO), as is the case for the Linux kernel and many other free projects.
-====
+****
 
 [.policy]
 .Upstreaming and forwards compatibility
-====
+****
 
 [.policy-summary]
-======
+******
 Projects that improve or transform an existing free software product, whether undertaken by City Council or provider staff shall, insofar as possible, contribute these improvements and upstream any corrections to the original project.
 Furthermore, projects shall guarantee, to the extent possible, forwards compatibility in such a manner that the software adapted for the Barcelona City Council minimises the number of potential update and maintenance problems.
-======
+******
 
 [loweralpha]
 . Upstreaming means making code contributions (developed by and on behalf of the City Council) to existing free projects, so that this code can be included in the trunk software and thus form part of the free project.
@@ -498,7 +498,7 @@ Furthermore, this also ensures the quality of changes that are introduced and co
 * The developers contracted or subcontracted by the City Council must sign a contributor license agreement (CLA) or DCO with the the project managers, if so required.
 
 . For free software projects that have a written code of conduct, it is recommended to specify clauses in the technical specifications that make it possible to penalise contractors who fail to comply.
-====
+****
 
 === Flexible intellectual property policy
 
@@ -518,12 +518,12 @@ These principles are structured around the following guidelines:
 
 [.policy]
 .Intellectual property rights in the software
-====
+****
 
 [.policy-summary]
-======
+******
 The City Council's projects will establish a legal framework for clearly defining and managing the intellectual property rights in software developments. Depending on the circumstances, the agreements will establish the selected ownership model, including the options of transferring rights to the City Council or the IMI, leaving the rights to the provider or transferring them to entities that manage the relevant code of the project, provided that they are made available under free software licence for released projects.
-======
+******
 
 [loweralpha]
 . Each project will define which individuals and organisations will retain ownership of the intellectual property rights in the software.
@@ -536,16 +536,16 @@ External contributions outside the scope of a supply contract will require a con
 Notwithstanding the foregoing, there are other options for correctly managing contributions (establishing a DCOfootnote:[_DCO: Developers Certificate of Origin. For example: https://developercertificate.org/_] or contributions being made under the project licence or a more permissive licence).
 
 . Regardless of the intellectual property policy, which may differ from one project to the next, the authorship of all contributors shall be reflected in an Authors file in the public repository.
-====
+****
 
 [.policy]
 .Legal management of software development projects
-====
+****
 
 [.policy-summary]
-======
+******
 Projects must establish processes and documentation for managing the legal aspects associated with intellectual property and software licences (in particular, for contributions and licences of components used as part of the development and other software dependencies, ensuring that all licences involved are compatible); to this end, best practices and standard tools or tools commonly used in the sector shall be employed to ensure the traceability and integrity of the code.
-======
+******
 
 [loweralpha]
 . Correct legal management will facilitate compliance with regulations and the rights of third parties during the project and thereafter.
@@ -561,17 +561,17 @@ If the licence so requires, each code file shall specify the licence under which
 . The use of standards and best practices such as SPDX and OpenChain will be encouraged to ensure greater transparency between suppliers and the City Council and compliance with the best legal practices in the sector.
 
 . The IMI will appoint an individual responsible for managing the legal aspects of its projects with a view to ensuring compliance with legal obligations associated with the free licences and other legal topics (intellectual property, trademarks, governance of communities).
-====
+****
 
 [.policy]
 .Licence for freeing software
-====
+****
 
 [.policy-summary]
-======
+******
 Software produced within the framework of the City Council's digital service projects, including the software resulting from service agreements, shall be made public under a free software licence that complies with applicable regulations.
 The City Council shall establish the criteria and requirements for establishing the type of licence to use in each project.
-======
+******
 
 [loweralpha]
 . The licence chosen must comply with the requirements of Royal Decree 4/2010.
@@ -594,15 +594,16 @@ Nor is it recommended to use very rare or unknown licences.
 * If all other conditions are the same, using a licence with copyleft is recommended (including “ASP/network copyleft” for distributed applications), as this is considered appropriate by Spanish law and serves to prevent a product developed with public funds from eventually becoming private.
 
 . The IMI will have a team dedicated to assessing the legal aspects and licences of projects and establishing the obligations of each licence used.
-====
+****
 
 [.policy]
 .Trademarks
-====
+****
 
 [.policy-summary]
-======
+******
 If a trademark is registered to designate a software project freed by the City Council, the Council shall establish a public use policy that allows members of the community of users and developers to use it within the framework of the community's activities.
+******
 
 [loweralpha]
 . For projects to be freed, using a name that is identical or similar to existing free projects must be avoided as well as any already registered trademarks for products and services in the information technology sector.
@@ -610,4 +611,4 @@ If a trademark is registered to designate a software project freed by the City C
 . Trademarks serve to differentiate projects and prevent imitations or similar projects (including forks), that could exploit the reputation and efforts of the original project sponsored by or belonging to the City Council.
 
 . The trademark use policy shall allow the community and third parties adopting or implementing the software to use the project trademark whilst restricting its commercial use by third parties in breach of the rules defined by the community and the City Council.
-====
+****
