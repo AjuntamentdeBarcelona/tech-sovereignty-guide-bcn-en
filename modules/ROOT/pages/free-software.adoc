@@ -55,7 +55,7 @@ From a practical perspective, both the free software freedoms and the OSI guidel
 There are very few licenses accepted by only one organization (the FSF or OSI) and not the other, and those licenses are not among the most widespread.
 This does not preclude that the philosophical views supporting both camps and the stated goals of FSF and OSI may be quite different.
 
-== CopyLeft
+== Copyleft
 
 Free software licences with _copyleft_ go beyond merely granting the basic four freedoms of the software for licensees or direct users.
 A licence that awards the aforementioned rights without imposing conditions allows the licensee to include the free software in another software programme and redistribute the result under a restrictive or “proprietary” licence, in such a way that the users of the new programme will not attain any of the freedoms originally awarded.
