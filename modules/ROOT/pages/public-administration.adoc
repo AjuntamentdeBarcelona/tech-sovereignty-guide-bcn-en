@@ -21,10 +21,12 @@ Councilfootnote:[_Free software desktop migration, available online at https://w
 In its _Interoperable Delivery of European eGovernment Services to Public Administrations, Businesses and Citizens_ initiative (now known as JoinUp), the European Commission established an “Open Source Observatory” (OSOR) that collects information about benchmark cases on the adoption of free software in the EUfootnote:[_Open source observatory, available online at https://joinup.ec.europa.eu/node/26689_]: it reveals that literally thousands of cities and regions have installed and run free software across Europe.
 JoinUp asserts that more than 15,000 projects are licensed under the EUPL free software licence (see below), the majority pertaining to European administrations.footnote:[_More projects licensed under EUPL (15,000 according to GitHub), available online at https://joinup.ec.europa.eu/community/eupl/news/more-projects-licensed-under-eupl-15000-according-github_] JoinUp has also established a European federation of free software repositoriesfootnote:[_JoinUp: About federated repositories, available online at https://joinup.ec.europa.eu/catalogue/repository_], making it possible to search for and identify existing freely licenced solutions.
 
-TIP: The European Commission will further increase the role of open source software for many of its key ICT services and software solutions. The renewed strategy puts a special emphasis on procurement, contribution to open source software projects and providing more open source software in the Commission. +
- +
-https://ec.europa.eu/info/european-commissions-open-source-strategy_en
-
+****
+[quote, European Comission, https://ec.europa.eu/info/european-commissions-open-source-strategy_en]
+____
+The European Commission will further increase the role of open source software for many of its key ICT services and software solutions. The renewed strategy puts a special emphasis on procurement, contribution to open source software projects and providing more open source software in the Commission.
+____
+****
 
 The European Commission's free software strategy policy was published in 2014, reinforcing its desire to release free software created by or on behalf of the Commission, in addition to contributing to and participating in development communities.footnote:[_EC Open Source Software Strategy, available online at https://ec.europa.eu/info/european-commissions-open-source-strategy_en_]
 
@@ -54,10 +56,12 @@ These advantages have also been studied and presented by Cenatic, the Spanish Na
 * Development of the local ICT sector: as they have access to the code, SMEs in the sector can offer services to public administrations and companies in such a way that they can compete under better conditions with other more dominant operators in the sector.
 * Value generation in the community: using free software allows public administrations and companies to share and reuse applications, enhancing collaboration between these entities and with the technology industry and developer community.footnote:[_Available online at http://www.cenatic.es/sobre-el-software-libre/ventajas-del-software-libre_]
 
-TIP: The resulting reuse makes it possible to enhance cost savings as part of the development, maintenance and evolution of the source code. However, primarily, it promotes the development of an economy based on knowledge and innovation, and contributes to the development of an information and communication technology ecosystem, improving the competition by encouraging cooperation between the public and private sector with the sole objective of improving public services, the quality of which are usually based on the mass use of information technologies. +
- +
-_Basque Parliament: Decree 159/2012, of 24 July, regulating the openness and reuse of IT platforms by the Public Administration in the Basque Country._
-
+****
+[quote, Basque Parliament, "Decree 159/2012, of 24 July, regulating the openness and reuse of IT platforms by the Public Administration in the Basque Country"]
+____
+The resulting reuse makes it possible to enhance cost savings as part of the development, maintenance and evolution of the source code. However, primarily, it promotes the development of an economy based on knowledge and innovation, and contributes to the development of an information and communication technology ecosystem, improving the competition by encouraging cooperation between the public and private sector with the sole objective of improving public services, the quality of which are usually based on the mass use of information technologies.
+____
+****
 
 == Legal framework
 
