@@ -101,18 +101,27 @@ It is also worth noting that Article 17 of Royal Decree 4/2010, of 8 January, ob
 
 == Licences for freeing public administration software
 
-Article 16 of the aforementioned Royal Decree 4/2010, of 8 January, establishes four conditions for Spanish public administrations to follow when releasing software:
+Article 16 of the aforementioned Royal Decree 4/2010, of 8 January, establishes the conditions for Spanish public administrations to follow when releasing software.
+Two of them are:
 
-. _In terms of the applications certified as open source, administrations shall use licences that guarantee that the programmes, data or information shared:_
-.. _Can be executed for any purpose._
-.. _Allow for the source code to be consulted._
-.. _Can be modified or improved._
-.. _Can be redistributed to other users either with or without changes, provided that the derivative work preserves the same four guarantees._
-
-. _To this end, they shall procure the use of the European Union Public Licence, without prejudice to other licences that guarantee the same rights as those set out in sections 1 and 2._
+[quote, Cortes Generales (Spanish Parliament), "Royal Decree 4/2010, of 8 January"]
+____
+[start=2]
+. In terms of the applications certified as open source, administrations shall use licences that guarantee that the programmes, data or information shared:
+.. Can be executed for any purpose.
+.. Allow for the source code to be consulted.
+.. Can be modified or improved.
+.. Can be redistributed to other users either with or without changes, provided that the derivative work preserves the same four guarantees.
+. To this end, they shall procure the use of the European Union Public Licence, without prejudice to other licences that guarantee the same rights as those set out in sections 1 and 2.
+____
 
 This means that a public administration can use any current free software licence, provided that it contains an element of copyleft (condition 2(d) above) and it is “recommended” to use the EUPL licence.
 For releasing software by the European Commission or the EU and, by extension, other public administrations, a study was carried out in 2005 and it was established that no existing free licence was ideal, even though many may serve the purpose.
-Therefore, in 2007 (and updated in 2017), the _European Union Public Licence_ (EUPL) was published, which is a licence with weak _copyleft_.footnote:[_See description of EUPL “The European Union Public Licence (EUPL)”,_ available online at _http://www.ifosslr.org/ifosslr/article/view/91; and “Comments to Understanding the EUPL 1.2”, available online at https://joinup.ec.europa.eu/news/understanding-eupl-v12._]
+Therefore, in 2007 (and updated in 2017), the _European Union Public Licence_ (EUPL) was published, which is a licence with weak _copyleft_.
 
-TIP: The EUPL is a particularly interesting licence given its appendix on “compatible” or “interoperable licences”. To avoid licence conflicts, the EUPL allows licensees to redistribute derivative works (and combinations or composites) under a compatible licence or under an incompatible licence indicated in the appendix (including the Eclipse PL, OSL 2.0 and 3.0, CeCILL, LGPLv2.1 and GPLv2 and now GPLv3 and AGPLv3). This express compatibility and the interoperability policy is applied to the final result of any integration (and not the original components that retain their own licence). Therefore, these terms of interoperability respect the original licence, whilst permitting interoperability with other, normally incompatible, copyleft licences.
+****
+The EUPL is a particularly interesting licence given its appendix on “compatible” or “interoperable licences”.
+To avoid licence conflicts, the EUPL allows licensees to redistribute derivative works (and combinations or composites) under a compatible licence or under an incompatible licence indicated in the appendix (including the Eclipse PL, OSL 2.0 and 3.0, CeCILL, LGPLv2.1 and GPLv2 and now GPLv3 and AGPLv3).
+This express compatibility and the interoperability policy is applied to the final result of any integration (and not the original components that retain their own licence).
+Therefore, these terms of interoperability respect the original licence, whilst permitting interoperability with other, normally incompatible, copyleft licences.footnote:[See description of EUPL “The European Union Public Licence (EUPL)”, available online at https://www.ifosslr.org/ojs/ifosslr/article/view/91; and “Comments to Understanding the EUPL 1.2”, available online at https://joinup.ec.europa.eu/news/understanding-eupl-v12.]
+****
