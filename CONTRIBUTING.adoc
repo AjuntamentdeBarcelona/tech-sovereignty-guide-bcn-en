@@ -1,0 +1,48 @@
+= Contributing
+
+We--the maintainers of this project and the City of Barcelona--value your input, enjoy feedback and welcome improvements to our free software projects and documentation.
+
+We love issues and pull requests from everyone.
+
+== Problems, suggestions and questions
+
+You don't need to change any of our code or documentation to be a contributor.
+Many contributors add to our software by reporting problems, suggesting changes and asking simple and difficult questions.
+To do this, you can create a https://help.github.com/articles/creating-an-issue/[GitHub Issue] for this project.
+
+== Documentation and code
+
+If you want to add to the documentation or code of one of our projects you should make a Pull Request.
+If you have never used GitHub, get up to speed with https://guides.github.com/introduction/flow/[Understanding the GitHub Flow].
+
+=== Make your changes
+
+Add your changes in commits https://github.com/alphagov/styleguides/blob/master/git.md#commit-messages[with a message that explains them].
+Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
+
+If you are adding code, make sure it adheres to the project's code and documentation style guide before you submit your pull request.
+
+=== Pull Request
+
+When submitting the pull request, please accompany it with a description of the problem you are trying to address and the issue numbers that this Pull Request fixes/addresses.
+
+=== Improve
+
+It could be that your contribution can be merged immediately by a maintainer.
+However, usually, a new Pull Request needs some improvements before it can be merged.
+Other contributors (or helper robots) might have feedback.
+If this is the case the reviewing maintainer will help you improve your documentation and code.
+
+If your documentation and code have passed human review and have passed the automated tests, it is merged.
+
+= AsciiDoc edition guidelines
+
+This section is specifically for telling you which conventions we have for writing the documentation in AsciiDoc.
+If you are new in AsciiDoc, please, start reading https://asciidoctor.org/docs/asciidoc-writers-guide/[this].
+
+== Specific project rules
+
+* Each sentence in one line (understanding a sentence when it finishes with '.').
+* For images, set always its real width (e.g. image::ScrumInfographic.svg[Scrum info-graphic, width=2835])
+* Info-graphics that have text always in .svg format for facilitating its edition.
+* Only use TIP, WARNING and IMPORTANT as https://asciidoctor.org/docs/asciidoc-writers-guide/#admonition-blocks[Admonitions].
