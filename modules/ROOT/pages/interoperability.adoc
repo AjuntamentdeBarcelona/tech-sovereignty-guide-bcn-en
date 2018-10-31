@@ -1,13 +1,7 @@
 = Interoperability, free standards and formats
-:experimental:
-:icons: font
-:page-partial:
-:source-highlighter: highlightjs
-
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-
 include::{partialsdir}/README.adoc[tag=metadata]
 
 Interoperability is the capacity of different information systems, possibly from different providers, to work together and share information without technical or legal boundaries.

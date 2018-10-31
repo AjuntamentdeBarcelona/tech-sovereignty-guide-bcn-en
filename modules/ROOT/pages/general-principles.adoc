@@ -1,13 +1,7 @@
 = General Principles of Technological Sovereignty
-:experimental:
-:icons: font
-:page-partial:
-:source-highlighter: highlightjs
-
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-
 include::{partialsdir}/README.adoc[tag=metadata]
 
 On 6 October 2016, the Commissioner for Technology and Digital Innovation presented the 2017–2020 Digital Barcelona Plan: Transition towards technological sovereignty, the goal of which is “to resolve the challenges of the city and its citizens through a more democratic use of technology.
