@@ -1,59 +1,129 @@
 // tag::metadata[]
-// MANDATORY. Title of the document. In web format, It appears as a heading of
-// level 1. In PDF format, it appears in a title page.
-:_title: Barcelona City Council technological sovereignty guide (Asciidoc version in progress...)
-
-// OPTIONAL. If not blank, it must begin with ": " (colon followed by a blank
-// space). In web format, it appears as part of the same heading of level 1 than
-// the title. In PDF format, it appears in the title page, just below the title.
-:_subtitle:
-
-// It's usually not necessary to change this field.
-:doctitle: {_title}{_subtitle}
-
+// IMPORTANT: the following block (until "end::metadata[]" appears) must be
+// contiguous (no blank lines).
+//
+// MANDATORY. A language label supported by Asciidoctor,
+// https://asciidoctor.org/docs/user-manual/#customizing-labels
+:lang: en
+//
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
 :revnumber: 0.1
-
+//
+// MANDATORY. URL pointing to a Git repository with the source code of the
+// document. Something like 'https://github.com/USERNAME/REPONAME'.
+:_public_repo_url: https://github.com/AjuntamentdeBarcelona/tech-sovereignty-guide-bcn-en
+//
+// MANDATORY.
+:_url: https://ethical-digital-standards-bcn.netlify.com/tech-sovereignty/
+//
+// MANDATORY. Title of the document. In web format, it appears as a heading of
+// level 1. In PDF format, it appears in a title page.
+:_title: Technological Sovereignty
+//
+// OPTIONAL. Subtitle of the document.
+:_subtitle:
+//
+// MANDATORY. Comma-separated list of names.
+:authors: Barcelona City Council
+//
+// OPTIONAL. Comma-separated list of names.
+:_contributors:
+//
+// OPTIONAL. Comma-separated list of names.
+:_reviewers:
+//
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
 // inserted in this field every time the formatted document (web or PDF) is
 // generated. It's also possible to manually write here a fixed date.
 :revdate: {docdate}
-
-// MANDATORY.
-:authors: Barcelona City Council
-
-// MANDATORY. Summary of the contents of the document. This would correspond to
-// the "abstract" in an academic publication.
+//
+// MANDATORY. Short summary of the contents of the document. 4 lines max.
 :_summary: The implementation of technological sovereignty in the delivery of BCN City Council's digital services.
-
+//
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
-:keywords:
-
+:keywords: ethical digital standards, technology rights, barcelona, city council, technological sovereignty
+//
 // MANDATORY. Document's history.
 :_dochistory:
-
+//
+// MANDATORY. When the document is not in its 1.0 release, yet, we can write "WE
+// URGE YOU NOT TO CITE THIS YET UNTIL REVISION 1.0" Variables like {_title},
+// {authors}, {_subtitle}, {revnumber} or {docyear} can be used here.
+:_citation: {authors}, {docyear}, {_title}
+//
+// MANDATORY. Copyright owner.
+:_copyleft: Barcelona City Council and the authors of the text
+//
 // MANDATORY. Legal terms under which this document can be distributed and/or
 // modified. It's usually not necessary to modify the default contents of this
 // field.
-:_copyleft: Barcelona City Council and the authors of the text, under a Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)
+:_license: Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)
+//
+// MANDATORY. DO NOT CHANGE THIS.
+:page-lang: {lang}
 // end::metadata[]
 
 
 // tag::metadata-table[]
+
+= {_title}
+
+ifeval::["{_subtitle}" != ""]
+[.lead]
+{_subtitle}.
+endif::[]
+
+[abstract]
+{_summary}
+
+This document is part of the https://ajuntament.barcelona.cat/digital/en/digital-transformation/technology-for-a-better-government/transformation-with-agile-methodology[Ethical Digital Standards] of the Barcelona City Council.
+
 == Metadata
+
+// tag::metadata-table[]
 
 [cols="20,80"]
 |===
-| Title                                 | {_title}
+| Title                                 | {_url}[{_title}]
+ifeval::["{_subtitle}" != ""]
+| Subtitle                              | {_subtitle}
+endif::[]
 | Version                               | {revnumber}
+ifeval::["{_revdate}" != ""]
 | Date                                  | {revdate}
+endif::[]
 | Authors                               | {authors}
-| Summary                               | {_summary}
+ifeval::["{_contributors}" != ""]
+| Contributors                          | {_contributors}
+endif::[]
+ifeval::["{_reviewers}" != ""]
+| Reviewers                             | {_reviewers}
+endif::[]
+ifeval::["{_participants}" != ""]
+| Participants                          | {_participants}
+endif::[]
 | Keywords                              | {keywords}
+ifeval::["{_dochistory}" != ""]
+| Document history                      | {_dochistory}
+endif::[]
+| How to cite                           | {_citation}
 | Copyleft                              | {_copyleft}
+| License                               | {_license}
 |===
+
 // end::metadata-table[]
+
+== Forking and contributing
+
+This document can be forked, adapted, and reused under the conditions of the {_license} license.
+
+This repository contains the source code for the document, written in Asciidoc.
+The public renderized version of the document can be found at {_url}[{_title}].
+You will find instructions on how to get the renderized version of this and other related documents at https://github.com/AjuntamentdeBarcelona/ethical-digital-standards-site.
+
+We--the maintainers of this project and the City of Barcelona--value your input, enjoy feedback and welcome improvements to our free software projects and documentation.
+For more details see the link:./CONTRIBUTING.adoc[CONTRIBUTING] file at the root of this repository.
