@@ -31,7 +31,7 @@
 :_contributors:
 //
 // OPTIONAL. Comma-separated list of names.
-:_reviewers:
+:_reviewers: Richard Stallman, Roberto di Cosmo, Javier Ruiz, Boris van Hoytema
 //
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
