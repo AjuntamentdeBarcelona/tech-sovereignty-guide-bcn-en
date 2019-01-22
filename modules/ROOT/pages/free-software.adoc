@@ -111,7 +111,6 @@ For the purposes of freely distributing free software, no fee is charged: there 
 This prevents vendors trying to offer free software for a fee.
 Redhat Inc., for example, can charge for its distribution of GNU/Linux (for example, Red Hat Enterprise) essentially because it offers additional products and services: performance warranties, support services, administrative or installation applications.
 
-****
 [quote, UK Government, https://www.gov.uk/design-principles#tenth]
 ____
 We should share what we’re doing whenever we can.
@@ -122,4 +121,3 @@ The more eyes there are on a service the better it gets - errors are spotted, be
 Much of what we’re doing is only possible because of open source code and the generosity of the web design community.
 We should return the favour.
 ____
-****
