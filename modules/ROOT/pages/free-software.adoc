@@ -18,7 +18,6 @@ In summary, these rights provide for the *free use, copying or modification of s
 
 A free licence is a licence that guarantees the “freedoms of the software”, according to Free Software Foundation (FSF).
 An Open Source Software license is one that fulfils the guidelines established by the Open Source Initiative (OSI).
-From a technical and practical perspective, both the free software freedoms and the OSI Guidelines substantially overlap (while the philosophical views of the supporting institutions may be quite different).
 
 The Free Software Foundation defines free software as follows (1986)footnote:[_Definition of free software, https://www.gnu.org/philosophy/free-sw.en.html[https://www.gnu.org/philosophy/free-sw.es.html.]_]: _A program is free software if the program's users have the four essential freedoms:_
 

@@ -66,13 +66,13 @@ Aliprandi, Simone (2011) _Interoperability and open standards: the key to true o
 
 Gardeler, R. (2013) Software _Sustainability Maturity Model_. Available online at _http://oss-watch.ac.uk/resources/ssmm_
 
-Meshed Insites Limited (2016) _Gobernanza de la fase inicial de la estrategia Open Source_ (2016). Working document of Barcelona City Council
+Javier Ruiz (2016) _Gobernanza de la fase inicial de la estrategia Open Source_. Working document of Barcelona City Council. Meshed Insights Limited
+
+Javier Ruiz (2016) _Documents de suport a la compra pública en els aspectes de tecnologia oberta_. Working document of Barcelona City Council. Omnis Systems
 
 Paapst, Mathieu (2010) _Affirmative action in procurement for open standards and FLOSS, IFOSS L. Rev., 2(2)_, p. 181-190, DOI: _10.5033/ifosslr.v2i2.41_
 
 Piana, Carlo (2010) _Italian Constitutional Court gives way to Free Software friendly laws, IFOSS L. Rev., 2(1),_ p. 61-66, DOI. Available online at _10.5033/ifosslr.v2i1.38_
-
-Omnis Systems (2016) Documents de suport a la compra pública en els aspectes de tecnologia oberta. (Working document of Barcelona City Council)
 
 Offerman, A (2012) _Public Open Source Software Procurement Models: The Next Generation, European Journal of ePractice_, núm. 18 (October 2012)s. Available online at _https://joinup.ec.europa.eu/elibrary/case/public-open-source-software-procurement-models-next-generation_ and _http://www.offerman.com/articles/Joinup/ePractice-Journal_Volume_18_Final_12_10_12_PART8.pdf_
 

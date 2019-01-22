@@ -353,8 +353,8 @@ This space shall contain a repository for each software project in which it has 
 . Projects undertaken by the City Council shall feature a public issue tracking system in which anybody can report bugs and follow their progress.
 The system will also allow contributions to be made and their integration to be tracked, in addition to enabling improvements or adaptations to be suggested.
 
-. All code and comments must be in English.
-A troubleshooting forum will be available in English.
+. All code and comments must be in English and also some forum for troubleshooting.
+Enabling global development and participation is key for the sustainability of a free software project.
 Optionally, some projects may choose to establish platforms for participation in project development in which Spanish and Catalan are the preferred languages.
 
 . Projects shall also have a continuous integration system that makes it possible to run batches of automated tests and that publishes the results.
