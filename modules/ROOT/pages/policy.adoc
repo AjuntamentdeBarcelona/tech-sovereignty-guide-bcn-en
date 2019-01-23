@@ -361,7 +361,7 @@ Optionally, some projects may choose to establish platforms for participation in
 ****
 
 [.policy]
-.Code and document maintenance
+.Code maintenance and documentation
 ****
 
 [.policy-summary]
@@ -386,6 +386,8 @@ The repository of free or freed projects shall be public.
 This documentation will also be published and covered by a licence, which will be defined in the specifications, using CC0 or CC-BY-SA 3.0 by default.
 
 . All files contained in the repository referring to documentation, including user documentation if it is featured in the code repository, shall be in English and be formatted in plain text or in a lightweight markup language, such as ReStructuredText.
+
+. Code developed for the City Council should be systematically archived for the long term, even when it is no longer actively maintained, using a well recognized software archive as the https://www.softwareheritage.org/[Software Heritage].
 ****
 
 === A new relationship model with providers and the community
