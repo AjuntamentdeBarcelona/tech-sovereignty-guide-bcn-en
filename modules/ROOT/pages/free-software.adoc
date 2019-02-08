@@ -19,7 +19,7 @@ In summary, these rights provide for the *free use, copying or modification of s
 A free licence is a licence that guarantees the “freedoms of the software”, according to Free Software Foundation (FSF).
 An Open Source Software license is one that fulfils the guidelines established by the Open Source Initiative (OSI).
 
-The Free Software Foundation defines free software as follows (1986)footnote:[_Definition of free software, https://www.gnu.org/philosophy/free-sw.en.html[https://www.gnu.org/philosophy/free-sw.es.html.]_]: _A program is free software if the program's users have the four essential freedoms:_
+The Free Software Foundation defines free software as follows (1986):footnote:[_Definition of free software, https://www.gnu.org/philosophy/free-sw.en.html[https://www.gnu.org/philosophy/free-sw.es.html.]_] _A program is free software if the program's users have the four essential freedoms:_
 
 
 . _The freedom to run the program as you wish, for any purpose (freedom 0)._
@@ -27,7 +27,7 @@ The Free Software Foundation defines free software as follows (1986)footnote:[_D
 . _The freedom to redistribute copies (freedom 2)._
 . _The freedom to distribute copies of your modified versions to others (freedom 3)._ Access to the source code is a precondition for this
 
-Alternatively, “open source” (or “open source software”) corresponds to software programs that are distributed under a licence that is free and fulfils the OSI guidelines set out under the Open Source Definition, which brings together and develops these four freedomsfootnote:[_Open source definition at https://opensource.org/osd_].
+Alternatively, “open source” (or “open source software”) corresponds to software programs that are distributed under a licence that is free and fulfils the OSI guidelines set out under the Open Source Definition, which brings together and develops these four freedoms.footnote:[_Open source definition at https://opensource.org/osd_]
 
 Under this definition, licences must fulfil ten conditions to be considered as open source:
 
@@ -73,17 +73,16 @@ The most important difference can be traced to the redistribution conditions and
 
 [loweralpha]
 . If the program has been licensed under a “*lax permissive*” license (such as BSD or X11/MIT licenses), generally speaking, no conditions apply in terms of redistribution, which means it can be mixed with any other software.
-. If the program has been licensed under the GPL licence or another licence “*with _copyleft_*”, then the redistribution of the programme or any other derivative or composite work including it, must be subject to the same licence, and offer the user access to the source code.
+. If the program has been licensed under the GPL licence or another licence “*with _copyleft_*”, then the redistribution of the program or any other derivative or composite work including it, must be subject to the same licence, and offer the user access to the source code.
 This ensures that the program remains “free” and cannot be “privatised”.
-. Some “intermediate” licences, or licences “*with _soft copyleft_*” (such as the LGPL, MPL or EUPL) make it possible to add or integrate new code into the original code and distribute the combination under a new licence (proprietary or free).
-However, the original part must be offered under the original licence, normally along with the source code.
+. Some “intermediate” licences, or licences “*with _soft copyleft_*” (such as the LGPL, MPL or EUPL) make it possible to integrate free software components into new code, with the combined result being then licensed under other terms, provided the free software component (and all modifications made to it) are made available under the original licence.
 This is a form of partial _copyleft_.
 
 The most common and well-known licences are as follows:
 
 * Lax permissive: X11, Expat, modified BSD, Apache Software License 2.0
-* _Copyleft:_ GPLv2 and GPLv3, Affero GPL3
-* _Weak (or “narrower”)_ copyleft: LGPL (version 2 or 3), MPL (version 2), CPL (Common Public License).
+* Copyleft: GPLv2 and GPLv3, Affero GPL3
+* Soft (or _weak_, or _narrower_) copyleft: LGPL (version 2 or 3), MPL (version 2), CPL (Common Public License).
 
 == Advantages
 
