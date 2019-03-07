@@ -6,7 +6,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Principles and guidelines
 
-The policy on the technological sovereignty of the City Council is based on the principles and guidelines set out in the 2017-2020 Digital Barcelona Plan: Transition towards technological sovereignty, digital service standards and the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice].
+The policy on the technological sovereignty of the City Council is based on the principles and guidelines set out in the 2017-2020 Digital Barcelona Plan: Transition towards technological sovereignty, digital service standards and the xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice].
 
 Generally speaking, these principles consist of:
 
@@ -49,8 +49,7 @@ Two different sets of circumstances may apply:
 * When a specific interoperability need cannot be covered by an existing standard, the technical documents attached to the tender specifications shall contain full details of the information, protocols, interfaces, formats and processes to be used.
 These details shall make its implementation possible without having to resort to specific products or providers.
 
-. As an example of a specific case implementing these interoperability guidelines, please consult the City document management policy (at
-_http://ajuntament.barcelona.cat/arxiu-municipal/sites/default/files/InstruccioPoliticaGD_cat.pdf_)
+. As an example of a specific case implementing these interoperability guidelines, please consult the http://hdl.handle.net/11703/84149[City document management policy].
 ****
 
 [.policy]
