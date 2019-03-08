@@ -1,28 +1,20 @@
 = {doctitle}
-ifndef::env-site,env-github[]
-include::_attributes.adoc[]
-endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 :doctitle: {_title}
 :page-layout: pdf
 :toc: macro
+:revdate: {localdate}
 
-[.my-authors-class]
-{authors}
-
-[.my-revnumber-class]#v{revnumber}# -- [.my-revdate-class]#{revdate}#
-
-[.my-other-class]
-Other things in the cover.
-
-
-[.page-second]
+[.pdf-authors-version]
 --
-[discrete.no-toc]
-=== Summary
+[.pdf-authors]
+_Authors_: {authors}.
 
-[abstract]
-{_summary}
+[.pdf-authors]
+_Reviewers_: {_reviewers}.
+
+[.pdf-version]
+v{revnumber}, {revdate}
 --
 
 :toclevels: 3
@@ -30,7 +22,7 @@ toc::[]
 
 :leveloffset: +1
 
-:sectnums!:
+:!sectnums:
 
 // Non-numbered sections here
 

@@ -1,0 +1,16 @@
+{
+  "name": "docs-site-preview",
+  "private": true,
+  "devDependencies": {
+    "@antora/cli": "^2.0.0",
+    "@antora/site-generator-default": "^2.0.0",
+    "error-symbol": "^0.1.0",
+    "gulp": "^4.0.0",
+    "info-symbol": "^0.1.0",
+    "request": "^2.88.0",
+    "success-symbol": "^0.1.0",
+    "to-regex": "^3.0.2",
+    "warning-symbol": "^0.1.0",
+    "yamljs": "^0.3.0"
+  }
+}

@@ -15,7 +15,7 @@
 :_public_repo_url: https://github.com/AjuntamentdeBarcelona/tech-sovereignty-guide-bcn-en
 //
 // MANDATORY.
-:_url: https://ethical-digital-standards-bcn.netlify.com/tech-sovereignty/
+:_url: https://www.barcelona.cat/digitalstandards/{lang}/tech-sovereignty/
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
@@ -31,7 +31,7 @@
 :_contributors:
 //
 // OPTIONAL. Comma-separated list of names.
-:_reviewers:
+:_reviewers: Richard Stallman, Roberto di Cosmo, Javier Ruiz, Boris van Hoytema
 //
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically

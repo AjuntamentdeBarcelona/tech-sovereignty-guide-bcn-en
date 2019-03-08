@@ -1,0 +1,49 @@
+distribution: xenial
+language: node_js
+node_js:
+  - "10"
+services:
+  - docker
+addons:
+  apt:
+    packages:
+    - jq
+before_script:
+  - pip install --user yq
+  - export ANTORA_COMPONENT_NAME="$(yq -r .name antora.yml)"
+  - export ANTORA_COMPONENT_VERSION="$(yq -r .version antora.yml)"
+  - export COMPONENT_NAME=$(yq -r '.name|.[3:]|sub("-";"_";"g")' antora.yml)
+  - export COMPONENT_LANGUAGE=$(yq -r '.name|.[0:2]' antora.yml)
+  # Following line creates a version name that concats "v", $ANTORA_COMPONENT_VERSION, and
+  # ".0", or a tag vX.Y.Z+1 if the largest existing version is vX.Y.Z.
+  - export DOC_VERSION="$(echo $ANTORA_COMPONENT_VERSION).$(echo "$({ echo v$(echo $ANTORA_COMPONENT_VERSION).0 ; git tag -l v$(echo $ANTORA_COMPONENT_VERSION).* --sort=v:refname ; } | tail -n 1 | grep -o '[[:digit:]]*$') + 1" | bc)"
+  - echo "DOC_VERSION"=$DOC_VERSION
+  - cd preview
+  - npm install
+  # The gulp command below relies on variable $REPOSITORY_URL
+  - export REPOSITORY_URL=${TRAVIS_REPO_SLUG}.git
+  - gulp playbook
+script:
+  - node_modules/.bin/antora --stacktrace --fetch --html-url-extension-style=indexify site.patched.yml
+  - export HTML_FILE="$ANTORA_COMPONENT_NAME/$ANTORA_COMPONENT_VERSION/PDF/index.html"
+  - export PDF_FILE="/build/doc.pdf"
+  - export DOCKER_COMMAND="weasyprint -p $HTML_FILE $PDF_FILE"
+  - echo $DOCKER_COMMAND
+  - docker run --mount type=bind,source="$(pwd)"/build,target=/build --workdir /build gmarpons/weasyprint:44-edge $DOCKER_COMMAND
+before_deploy:
+  - export TRAVIS_TAG="v$DOC_VERSION"
+  - echo "barcelona_${COMPONENT_NAME}_${DOC_VERSION}.${COMPONENT_LANGUAGE}.pdf" > filename.txt
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file:
+    - build/doc.pdf
+    - filename.txt
+  skip_cleanup: true
+  on:
+    repo: $TRAVIS_REPO_SLUG
+  overwrite: false
+after_deploy:
+  - git config --local user.name $(git log -1 --pretty=format:'%cn')
+  - git config --local user.email $(git log -1 --pretty=format:'%ce')
+  - git tag $TRAVIS_TAG

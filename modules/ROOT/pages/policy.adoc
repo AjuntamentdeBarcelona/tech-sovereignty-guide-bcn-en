@@ -6,7 +6,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 == Principles and guidelines
 
-The policy on the technological sovereignty of the City Council is based on the principles and guidelines set out in the 2017-2020 Digital Barcelona Plan: Transition towards technological sovereignty, digital service standards and the xref:tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice].
+The policy on the technological sovereignty of the City Council is based on the principles and guidelines set out in the 2017-2020 Digital Barcelona Plan: Transition towards technological sovereignty, digital service standards and the xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice].
 
 Generally speaking, these principles consist of:
 
@@ -49,8 +49,7 @@ Two different sets of circumstances may apply:
 * When a specific interoperability need cannot be covered by an existing standard, the technical documents attached to the tender specifications shall contain full details of the information, protocols, interfaces, formats and processes to be used.
 These details shall make its implementation possible without having to resort to specific products or providers.
 
-. As an example of a specific case implementing these interoperability guidelines, please consult the City document management policy (at
-_http://ajuntament.barcelona.cat/arxiu-municipal/sites/default/files/InstruccioPoliticaGD_cat.pdf_)
+. As an example of a specific case implementing these interoperability guidelines, please consult the http://hdl.handle.net/11703/84149[City document management policy].
 ****
 
 [.policy]
@@ -353,15 +352,15 @@ This space shall contain a repository for each software project in which it has 
 . Projects undertaken by the City Council shall feature a public issue tracking system in which anybody can report bugs and follow their progress.
 The system will also allow contributions to be made and their integration to be tracked, in addition to enabling improvements or adaptations to be suggested.
 
-. All code and comments must be in English.
-A troubleshooting forum will be available in English.
+. All code and comments must be in English and also some forum for troubleshooting.
+Enabling global development and participation is key for the sustainability of a free software project.
 Optionally, some projects may choose to establish platforms for participation in project development in which Spanish and Catalan are the preferred languages.
 
 . Projects shall also have a continuous integration system that makes it possible to run batches of automated tests and that publishes the results.
 ****
 
 [.policy]
-.Code and document maintenance
+.Code maintenance and documentation
 ****
 
 [.policy-summary]
@@ -386,6 +385,8 @@ The repository of free or freed projects shall be public.
 This documentation will also be published and covered by a licence, which will be defined in the specifications, using CC0 or CC-BY-SA 3.0 by default.
 
 . All files contained in the repository referring to documentation, including user documentation if it is featured in the code repository, shall be in English and be formatted in plain text or in a lightweight markup language, such as ReStructuredText.
+
+. Code developed for the City Council should be systematically archived for the long term, even when it is no longer actively maintained, using a well recognized software archive as the https://www.softwareheritage.org/[Software Heritage].
 ****
 
 === A new relationship model with providers and the community
