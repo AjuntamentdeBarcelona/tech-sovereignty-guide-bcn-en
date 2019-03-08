@@ -1,0 +1,18 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+= {_title}
+
+ifeval::["{_subtitle}" != ""]
+[.lead]
+{_subtitle}.
+endif::[]
+
+[abstract]
+{_summary}
+
+== Metadata
+
+include::{partialsdir}/README.adoc[tag=metadata-table]
