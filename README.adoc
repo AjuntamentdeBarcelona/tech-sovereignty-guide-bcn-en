@@ -67,9 +67,6 @@
 :page-lang: {lang}
 // end::metadata[]
 
-
-// tag::metadata-table[]
-
 = {_title}
 
 ifeval::["{_subtitle}" != ""]
